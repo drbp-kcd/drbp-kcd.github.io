@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## Dr. B. Parvathalu
 **Associate Professor in Mathematics**  
 **Karnatak Arts/Science College, Dharwad, India**
