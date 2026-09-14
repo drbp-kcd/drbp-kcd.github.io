@@ -1,5 +1,5 @@
 ---
-title: "Algebra-I and Calculus–I"
+title: "Algebra-I and Calculus–I (I-Semester)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/algebra-i-calculus-i
@@ -12,7 +12,7 @@ excerpt: "Classroom notes for Unit II: Limits and Continuity and
 
 ## Course Information
 
-**Course:** Algebra-I and Calculus–I  
+**Course:** Algebra-I and Calculus–I (I-Semester) 
 **Level:** Undergraduate  
 **Institution:** Karnatak Science College, Dharwad  
 **Instructor:** Dr. B. Parvathalu  
