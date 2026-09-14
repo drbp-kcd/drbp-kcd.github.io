@@ -24,7 +24,8 @@ The PDF files are updated regularly as the course progresses.
 Classroom notes covering the topics discussed in class,
 including explanations, worked examples and exercises.
 
-[Download Unit II Notes (PDF)]({{ '/files/teaching/algebra-i-calculus-i/unit-ii-notes.pdf' | relative_url }}){: .btn .btn--primary}
+[Download Unit II Notes (PDF) as on Sep 14, 2025]({{ '/files/teaching/algebra-i-calculus-i/unit-ii-notes.pdf' | relative_url }}){: .btn .btn--primary}
+[Download Unit II Notes (PDF) as on Sep 4, 2025]({{ '/files/teaching/algebra-i-calculus-i/unit-ii-notes.pdf' | relative_url }}){: .btn .btn--primary}
 
 ## Unit IV: Successive Differentiation and Mean Value Theorems
 
