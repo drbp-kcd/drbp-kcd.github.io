@@ -40,7 +40,27 @@ August 2010 – May 2012
 
 My teaching experience spans pre-university, undergraduate
 and postgraduate levels.
+## Awards and Distinctions
 
+### Research Awards
+
+- **Best Research Paper Publication–2024 Award in Science and Technology**  
+  Karnatak University, Dharwad.
+
+- **Prof. R. Balakrishnan Endowment Best Paper Award**  
+  Ramanujan Mathematical Society’s Annual Conference, 2022.
+
+### National Examination Distinctions
+
+- **All India Rank 82** — CSIR–UGC National Eligibility Test (NET), June 2011.
+- **All India Rank 183** — Joint Entrance Screening Test (JEST), Computer Science, 2011.
+- **All India Rank 404** — Graduate Aptitude Test in Engineering (GATE), Mathematics, 2008.
+
+### Research Recognition
+
+- **Recognized Ph.D. Research Guide in Mathematics**  
+  Karnatak University, Dharwad, since 2026.
+  
 ## Academic Leadership
 
 ### Head of the Department of Mathematics
