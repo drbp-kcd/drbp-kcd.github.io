@@ -9,37 +9,58 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Ph.D. in Mathematics**  
+Karnatak University, Dharwad, India  
+2022
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**M.Tech. in Systems Analysis and Computer Applications**  
+National Institute of Technology Karnataka, Surathkal, India  
+2010
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**M.Sc. in Applied Mathematics**  
+University of Hyderabad, Hyderabad, India  
+2008
+
+## Work Experience
+
+### Associate Professor in Mathematics
+**Karnatak Arts/Science College, Dharwad**  
+22 June 2025 – Present
+
+### Assistant Professor in Mathematics
+**Karnatak Arts/Science College, Dharwad**  
+22 June 2012 – 21 June 2025
+
+### Lecturer (Contractual)
+**Department of Mathematical and Computational Sciences**  
+**National Institute of Technology Karnataka, Surathkal**  
+August 2010 – May 2012
+
+My teaching experience spans pre-university, undergraduate
+and postgraduate levels.
+
+## Academic Leadership
+
+### Head of the Department of Mathematics
+**Karnatak Arts/Science College, Dharwad**  
+August 2022 – January 2025
+
+### IT Coordinator
+**Karnatak Arts College, Dharwad**  
+July 2022 – May 2024
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Technical Skills
+
+- **Programming Languages:** Python, C, C++, Java and JavaScript.
+- **Mathematical Computing:** MATLAB, SageMath, Scilab, Maxima,
+  Maple and Mathematica.
+- **Scientific Typesetting:** LaTeX.
+- **Web Technologies:** HTML, JSP and XML.
+- **Databases:** Oracle, PostgreSQL and Microsoft SQL Server 2005.
+- **Framework:** Apache Struts 2.
+- **Operating Systems:** Linux (Ubuntu) and Windows.
 
 Publications
 ======
