@@ -18,7 +18,7 @@ and postgraduate levels.
 ### Research and Recognition
 
 My research contributions include **29 international publications**
-and **15 invited talks** at faculty development programmes, seminars,
+and **16 invited talks** at faculty development programmes, seminars,
 workshops and conferences. Since 2026, I have been a recognized
 Ph.D. research guide at Karnatak University, Dharwad.
 
@@ -46,7 +46,7 @@ Elsevier and other publishers, as well as for zbMATH.
 
 My national examination distinctions include **All India Rank 82
 in CSIR–UGC NET (2011)**, **Rank 404 in GATE Mathematics (2008)**
-and **Rank 183 in JEST Computer Science (2011)**.
+and **Rank 186 in JEST Computer Science (2011)**.
 
 ### Teaching and Academic Service
 
