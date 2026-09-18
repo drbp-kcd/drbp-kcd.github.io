@@ -12,6 +12,8 @@ College, Haliyal, Karnataka, India., with a downloadable PDF and accompanying so
 
 ## About the Book
 
+<div markdown="1" style="text-align: justify;">
+
 This laboratory manual is prepared based on my experience and experimental learning
 in using modern computational technologies in Mathematics. While preparing this manual, 
 I have explored different ways of presenting mathematical
