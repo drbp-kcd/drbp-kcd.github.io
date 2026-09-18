@@ -13,10 +13,8 @@ College, Haliyal, Karnataka, India., with a downloadable PDF and accompanying so
 ## About the Book
 
 This laboratory manual is prepared based on my experience and experimental learning
-in using modern computational technologies in Mathematics. It is my first attempt at
-preparing a manual of this kind and the entire document has been prepared using LATEX 2𝜀 ,
-a powerful typesetting system widely used for mathematical and scientific writing.
-While preparing this manual, I have explored different ways of presenting mathematical
+in using modern computational technologies in Mathematics. While preparing this manual, 
+I have explored different ways of presenting mathematical
 computations through Python. However, I have tried to keep the programs simple and
 student friendly, without compromising mathematical understanding. Students are encouraged
 not merely to execute the programs but to try different examples, modify the
@@ -27,8 +25,8 @@ Quick Python Exercises Before Running the Main Programs”. This manual is not i
 be a perfect or final work. As we know, nothing is perfect
 in this world; improvement depends on how we perceive and refine things. Therefore,
 constructive feedback is always welcome, especially suggestions for adding or removing
-programs, improving explanations, or including useful shortcuts that may benefit our stu-
-dents. This is prepared with the support of the **Karnatak University Mathematics Teachers Association
+programs, improving explanations, or including useful shortcuts that may benefit our students.
+This is prepared with the support of the **Karnatak University Mathematics Teachers Association
 (KUMTA)** during a Python Programming event conducted by **Government First Grade
 College (GFGC), Haliyal**.
 
