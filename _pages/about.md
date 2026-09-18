@@ -59,14 +59,13 @@ and **Rank 186 in JEST Computer Science (2011)**.
 
 ### Teaching and Academic Service
 
-Alongside teaching and research, I have served as **Head of the
-Department of Mathematics** from August 2022 to January 2025,
-as an IT Coordinator and as a member of institutional quality
-assurance committees. I also served as Organizing Secretary
+Alongside teaching and research, I have served as Head of the
+Department of Mathematics, as an IT Coordinator and as a member of institutional quality
+assurance committees and in other administrative and academic committees. I also served as Organizing Secretary
 of an international conference in 2020.
 
-My computational toolkit includes Python, MATLAB, SageMath,
-Mathematica, Maple and LaTeX.
+My computational toolkit includes SciLab, Maxima, Python, MATLAB, SageMath,
+Mathematica, Maple.
 
 [Teaching](/teaching/) · [Talks](/talks/) ·
 [Curriculum Vitae](/cv/)
