@@ -4,6 +4,7 @@ collection: publications
 category: books
 permalink: /publication/python-programming-laboratory-book
 date: '2026-08-31'
+venue: Self Publisher
 excerpt: "Prepared with the support of the Karnatak University Mathematics Teachers Association
 (KUMTA) during a Python Programming event conducted by Government First Grade
 College, Haliyal, Karnataka, India., with a downloadable PDF and accompanying source code."
