@@ -13,6 +13,8 @@ redirect_from:
 
 ### Welcome
 
+<div markdown="1" style="text-align: justify;">
+
 I am a mathematics educator and researcher specializing in
 **Spectral Graph Theory and Frame Theory**. My academic background
 spans applied mathematics, systems analysis and computer applications,
