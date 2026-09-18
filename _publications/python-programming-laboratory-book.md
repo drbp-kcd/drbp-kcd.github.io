@@ -1,15 +1,34 @@
 ---
-title: "Python Programming Practice Set"
+title: "PRACTICALS ON REAL ANALYSIS–II WITH PYTHON
+A Laboratory Manual for Undergraduate Mathematics"
 collection: publications
 category: books
 permalink: /publication/python-programming-laboratory-book
-excerpt: "Python programming practice materials prepared during an event conducted by GFGC, Haliyal, with a downloadable PDF and accompanying source code."
+excerpt: "Prepared with the support of the Karnatak University Mathematics Teachers Association
+(KUMTA) during a Python Programming event conducted by Government First Grade
+College, Haliyal, Karnataka, India., with a downloadable PDF and accompanying source code."
 ---
 
-## About the Material
+## About the Book
 
-This practice set brings together Python programming materials
-prepared during an event conducted by **Government First Grade
+This laboratory manual is prepared based on my experience and experimental learning
+in using modern computational technologies in Mathematics. It is my first attempt at
+preparing a manual of this kind and the entire document has been prepared using LATEX 2𝜀 ,
+a powerful typesetting system widely used for mathematical and scientific writing.
+While preparing this manual, I have explored different ways of presenting mathematical
+computations through Python. However, I have tried to keep the programs simple and
+student friendly, without compromising mathematical understanding. Students are encouraged
+not merely to execute the programs but to try different examples, modify the
+codes and observe the results. Such experimentation will help them understand both the
+strengths and limitations of Python in mathematical computation. Before proceeding to
+the main programs, students should complete the relevant exercises in the section “100
+Quick Python Exercises Before Running the Main Programs”. This manual is not intended to 
+be a perfect or final work. As we know, nothing is perfect
+in this world; improvement depends on how we perceive and refine things. Therefore,
+constructive feedback is always welcome, especially suggestions for adding or removing
+programs, improving explanations, or including useful shortcuts that may benefit our stu-
+dents. This is prepared with the support of the **Karnatak University Mathematics Teachers Association
+(KUMTA)** during a Python Programming event conducted by **Government First Grade
 College (GFGC), Haliyal**.
 
 The PDF and accompanying source code are available below for
@@ -17,9 +36,9 @@ study and practice.
 
 ## Downloads
 
-[Download Practice Set (PDF)]({{ '/files/books/python-programming-practice-set.pdf' | relative_url }}){: .btn .btn--primary}
+[Download Book (PDF)]({{ '/files/books/BSc V Sem-RNEP-Final-Design-Basics.pdf' | relative_url }}){: .btn .btn--primary}
 
-[Download Source Code (ZIP)]({{ '/files/books/python-programming-source-code.zip' | relative_url }}){: .btn .btn--primary}
+[Download Code (ZIP)]({{ '/files/books/Laboratory Manual V-Sem_Codes.zip' | relative_url }}){: .btn .btn--primary}
 
 ## Contact
 
