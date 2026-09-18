@@ -1,6 +1,5 @@
 ---
-title: "PRACTICALS ON REAL ANALYSIS–II WITH PYTHON
-A Laboratory Manual for Undergraduate Mathematics"
+title: "PRACTICALS ON REAL ANALYSIS–II WITH PYTHON"
 collection: publications
 category: books
 permalink: /publication/python-programming-laboratory-book
