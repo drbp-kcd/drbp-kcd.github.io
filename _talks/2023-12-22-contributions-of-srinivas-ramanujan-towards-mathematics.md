@@ -3,7 +3,7 @@ title: Contributions of Srinivas Ramanujan towards Mathematics
 collection: talks
 type: Seminar Talk
 permalink: /talks/2023-12-22-contributions-of-srinivas-ramanujan-towards-mathematics
-venue: Department of Mathematics, JSS Banashankar Arts, Commerce and Shantikumar Gubbi Science College, Dharwad
+venue: Department of Mathematics, JSS Banashankar Arts, Commerce and Shantikumar Gubbi Science College
 date: 2023-12-22
 location: Dharwad, Karnataka, India
 event: National Mathematics Day
