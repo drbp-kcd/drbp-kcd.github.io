@@ -3,7 +3,7 @@ title: Mathematical Writing and AI
 collection: talks
 type: FDP Talk
 permalink: /talks/2026-09-01-mathematical-writing-and-ai
-venue: KLE Technological University, M. S. Sheshgiri campus, Belagavi
+venue: KLE Technological University, M. S. Sheshgiri campus
 date: 2026-09-01
 location: Belagavi, Karnataka, India
 event: 5-DAY FACULTY DEVELOPMENT PROGRAM ON Emerging Mathematical Perspective in Artificial Intelligence, Machine Learning and Data Science
