@@ -3,7 +3,7 @@ title: Learn Mathematics Through Little Geometry
 collection: talks
 type: Seminar Talk
 permalink: /talks/2019-03-25-learn-mathematics-through-little-geometry
-venue: Department of Mathematics, Government First Grade College, Hirekerur
+venue: Department of Mathematics, Government First Grade College
 date: 2019-03-25
 location: Hirekerur, Karnataka, India
 event: One Day Special Lecture Programme on Science day
