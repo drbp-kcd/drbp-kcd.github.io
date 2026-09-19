@@ -3,7 +3,7 @@ title: Matrices and Limits
 collection: talks
 type: Workshop Talk
 permalink: /talks/2022-11-02-matrices-and-limits
-venue: Department of Economics, Karnatak Arts College, Dharwad
+venue: Department of Economics, Karnatak Arts College
 date: 2022-11-02
 location: Dharwad, Karnataka, India
 event: Workshop on Teaching of Quantitative Techniques at the Graduation Level (Economics)
