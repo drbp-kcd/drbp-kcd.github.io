@@ -4,7 +4,7 @@ collection: publications
 category: books
 permalink: /publication/python-programming-laboratory-book
 date: '2026-08-31'
-venue: Self Publisher(ISBN: 978-93-344-8833-3) 
+venue: Self Publisher 12
 excerpt: >-
   Prepared with the support of the Karnatak University Mathematics
   Teachers Association (KUMTA) during a Python Programming event
@@ -13,7 +13,7 @@ excerpt: >-
   for download.
 ---
 
-## About the Book
+## About the Book (ISBN: 978-93-344-8833-3) 
 
 <div markdown="1" style="text-align: justify;">
 
