@@ -9,71 +9,145 @@ excerpt: Syllabus information, preparation materials, previous question papers a
   practice resources.
 ---
 
-## MTTS Learning Resources
+## IIT JAM Mathematics: A Path to Higher Studies
 
-The following resources support the study of undergraduate and
-postgraduate mathematics, including foundations, problem-solving
-and further exploration.
+The **Joint Admission Test for Masters (JAM)** is a national-level
+entrance examination that provides a route to M.Sc. and other
+postgraduate programmes at the **Indian Institutes of Technology
+(IITs)**. For mathematics students, it offers an opportunity to
+pursue advanced study at some of India’s leading institutions.
 
-### Foundations: Problems and Practice
+Postgraduate study in mathematics can provide a strong foundation
+for **doctoral research, teaching and careers in applied mathematics,
+scientific computing, data science and related fields**. These
+paths require further training and skills, but a rigorous
+mathematical education is a valuable starting point.
 
-Explore problems and articles related to set theory and
-mathematical foundations:
+### Start Preparing During Your Undergraduate Studies
 
-[Browse Foundations Resources](https://4dspace.mtts.org.in/ea?search_string=set+theory&submitsearch=)
+Build a clear understanding of definitions, theorems and proofs.
+Practise problems regularly, study the official Mathematics
+syllabus and work through previous question papers. Focus on
+understanding why a method works, alongside learning how to use it.
 
-### Expository Articles by Prof. Kumaresan
+**Your present college need not define the limits of your
+ambition.** Begin with the mathematics you are learning today,
+seek guidance when needed and make steady progress towards
+higher studies.
 
-Download expository articles organized by mathematical subject
-and level of study.
+Admission depends on your JAM rank, programme eligibility,
+available seats and the applicable admission process.
 
-[Browse Expository Articles](https://4dspace.mtts.org.in/ea)
+## Official IIT JAM Information
 
-### Video Lectures by Prof. Kumaresan
+### JAM 2027
 
-Watch lectures on undergraduate and postgraduate mathematics.
-The channel also includes lectures on foundations that can
-support revision and independent study.
+Visit the official website for the information brochure,
+Mathematics syllabus, eligibility requirements, examination
+pattern, application procedure and important dates.
 
-[Watch Prof. Kumaresan’s Lectures](https://www.youtube.com/c/kumarhcu/)
+[Official JAM 2027 Website — IIT Kharagpur](https://jam.iitkgp.ac.in/)
 
-For queries or comments about these learning resources,
-contact Prof. Kumaresan at
-[kumaresa.zoom@gmail.com](mailto:kumaresa.zoom@gmail.com).
+**Choose Mathematics (MA)** when checking the syllabus and
+question papers. Mathematical Statistics (MS) is a different
+test paper.
 
-## MTTS Activities and Announcements
+The organizing institute and website may change each year.
+Always consult the website for your intended examination year.
 
-Visit the official MTTS website for information about programmes,
-eligibility, applications and upcoming activities.
+## Previous-Year Question Papers
 
-[Visit the MTTS Website](https://mtts.org.in/)
+Previous-year papers help you understand the examination style,
+assess your preparation and improve your problem-solving speed.
 
-### MTTS YouTube Channel
+- [Official Previous-Year Question Paper Archive — IIT Madras](https://jam.iitm.ac.in/Preqp.php)
+- [Official JAM 2026 Website — IIT Bombay](https://jam2026.iitb.ac.in/)
 
-Explore recordings of mathematical sessions, including sessions
-from OFCM 2025 and earlier programmes.
+On the archive page, select the relevant year and Mathematics
+paper where available. Consult the corresponding official
+examination website for published answer keys.
 
-[Watch the MTTS YouTube Channel](https://www.youtube.com/c/mttsprogramme)
+First attempt questions independently. Then check your answers,
+identify mistakes and revise the underlying concepts.
 
-## MTTS Souvenirs
+## Free Online Preparation Resources
 
-### MTTS 2026 Souvenir
+### 1. NPTEL
 
-Learn more about MTTS activities and their impact.
+NPTEL provides university-level learning materials from IITs
+and IISc. Search its course catalogue for **Real Analysis,
+Linear Algebra, Calculus and Differential Equations**.
 
-[View the MTTS 2026 Souvenir](https://mtts.org.in/downloads/mtts2026-souvenir)
+Choose lectures that match the current JAM Mathematics syllabus.
 
-### MTTS 2024 Souvenir
+[Explore NPTEL Courses](https://nptel.ac.in/courses)
 
-Read about ways to contribute to the programme. In particular,
-see **pages 23–24 and 58–59**.
+### 2. SWAYAM
 
-[View the MTTS 2024 Souvenir](https://mtts.org.in/downloads/mtts2024-souvenir)
+SWAYAM offers free access to course learning materials.
+Optional certification examinations may require a fee.
 
-## Share These Opportunities
+Use the course catalogue to find mathematics courses suitable
+for your current level and preparation needs.
 
-Students who have benefited from MTTS or OFCM are encouraged
-to share these opportunities with their juniors and encourage
-eligible students to apply.
+[Explore SWAYAM](https://swayam.gov.in/)
+
+### 3. MIT OpenCourseWare: Linear Algebra
+
+Prof. Gilbert Strang’s course includes lecture videos,
+problem sets and examination materials. It is useful for
+strengthening your understanding of matrices, vector spaces,
+linear systems and eigenvalues.
+
+[Study Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+
+### 4. MIT OpenCourseWare: Single Variable Calculus
+
+Use this course to revise differentiation, integration and
+their applications through lectures and practice materials.
+
+[Study Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
+
+### 5. MIT OpenCourseWare: Multivariable Calculus
+
+This course supports the study of functions of several
+variables, partial derivatives and multiple integrals.
+
+[Study Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
+
+### 6. MIT OpenCourseWare: Real Analysis
+
+This course develops understanding of sequences, series,
+continuity, differentiability and integration, with attention
+to mathematical reasoning and proofs.
+
+[Study Real Analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/)
+
+### 7. MIT OpenCourseWare: Differential Equations
+
+Explore differential equations through lecture notes,
+videos, practice problems and solutions.
+
+[Study Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
+
+## How to Use These Resources Effectively
+
+1. **Start with the official syllabus.** Make a topic checklist.
+2. **Strengthen the basics.** Review definitions, theorems,
+   examples and counterexamples.
+3. **Study selectively.** These courses may cover material
+   beyond the JAM syllabus.
+4. **Solve problems daily.** Watching lectures alone is
+   insufficient preparation.
+5. **Practise previous-year papers.** Begin topic-wise, then
+   attempt complete papers under timed conditions.
+6. **Keep an error notebook.** Record mistakes and revisit
+   difficult concepts regularly.
+
+Consistent preparation and thoughtful practice can help you
+build both examination confidence and a stronger foundation
+for postgraduate mathematics.
+
+[Back to Resources]({{ '/resources/' | relative_url }})
 
 [Back to Resources]({{ '/resources/' | relative_url }})
