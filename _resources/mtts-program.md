@@ -7,7 +7,9 @@ author_profile: true
 order: 3
 excerpt: Information and links for the Mathematics Training and Talent Search Program.
 ---
+
 ## About MTTS 
+
 The Mathematics Training and Talent Search Programme (MTTS) has been building skills in higher mathematics across India since 1993. Founded by Prof. S. Kumaresan and a group of committed mathematicians, MTTS grew into the country’s most popular undergraduate and graduate training programme in mathematics, running week-long to month-long workshops each year at institutions across India — reaching almost every state, including remote parts of the northeast.
 
 ## MTTS Learning Resources
