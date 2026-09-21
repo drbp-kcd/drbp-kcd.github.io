@@ -9,16 +9,71 @@ excerpt: Syllabus information, preparation materials, previous question papers a
   practice resources.
 ---
 
-## Examination Information
+## MTTS Learning Resources
 
-Information will be added here.
+The following resources support the study of undergraduate and
+postgraduate mathematics, including foundations, problem-solving
+and further exploration.
 
-## Preparation Materials
+### Foundations: Problems and Practice
 
-Study notes and practice resources will be added here.
+Explore problems and articles related to set theory and
+mathematical foundations:
 
-## Useful Links
+[Browse Foundations Resources](https://4dspace.mtts.org.in/ea?search_string=set+theory&submitsearch=)
 
-<!-- Add verified links: [Resource title](https://example.com) -->
+### Expository Articles by Prof. Kumaresan
+
+Download expository articles organized by mathematical subject
+and level of study.
+
+[Browse Expository Articles](https://4dspace.mtts.org.in/ea)
+
+### Video Lectures by Prof. Kumaresan
+
+Watch lectures on undergraduate and postgraduate mathematics.
+The channel also includes lectures on foundations that can
+support revision and independent study.
+
+[Watch Prof. Kumaresan’s Lectures](https://www.youtube.com/c/kumarhcu/)
+
+For queries or comments about these learning resources,
+contact Prof. Kumaresan at
+[kumaresa.zoom@gmail.com](mailto:kumaresa.zoom@gmail.com).
+
+## MTTS Activities and Announcements
+
+Visit the official MTTS website for information about programmes,
+eligibility, applications and upcoming activities.
+
+[Visit the MTTS Website](https://mtts.org.in/)
+
+### MTTS YouTube Channel
+
+Explore recordings of mathematical sessions, including sessions
+from OFCM 2025 and earlier programmes.
+
+[Watch the MTTS YouTube Channel](https://www.youtube.com/c/mttsprogramme)
+
+## MTTS Souvenirs
+
+### MTTS 2026 Souvenir
+
+Learn more about MTTS activities and their impact.
+
+[View the MTTS 2026 Souvenir](https://mtts.org.in/downloads/mtts2026-souvenir)
+
+### MTTS 2024 Souvenir
+
+Read about ways to contribute to the programme. In particular,
+see **pages 23–24 and 58–59**.
+
+[View the MTTS 2024 Souvenir](https://mtts.org.in/downloads/mtts2024-souvenir)
+
+## Share These Opportunities
+
+Students who have benefited from MTTS or OFCM are encouraged
+to share these opportunities with their juniors and encourage
+eligible students to apply.
 
 [Back to Resources]({{ '/resources/' | relative_url }})
