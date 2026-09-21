@@ -17,8 +17,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  # - title: "Resources"
-  #  url: /resources/
+  - title: "Resources"
+    url: /resources/
         
   - title: "Announcements"
     url: /announcements/
