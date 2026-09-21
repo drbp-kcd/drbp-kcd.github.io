@@ -6,7 +6,7 @@ permalink: /teaching/algebra-i-calculus-i
 venue: "Karnatak Science College, Dharwad"
 date: 2026-09-14
 location: "Dharwad, Karnataka, India"
-excerpt: "Classroom notes for Unit II: Limits and Continuity and 
+excerpt: "Notes for Unit II: Limits and Continuity and 
           Unit IV: Successive Differentiation and Mean Value Theorems."
 ---
 
