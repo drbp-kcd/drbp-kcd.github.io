@@ -130,6 +130,17 @@ videos, practice problems and solutions.
 
 [Study Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
 
+### 8. Bijumon R — YouTube Courses (Most Useful at Present)
+
+A recommended supplementary resource for students preparing
+for IIT JAM Mathematics. Explore the available courses and
+choose topics that match the current official syllabus.
+
+Study actively: take notes, attempt problems independently
+and practise related previous-year JAM questions.
+
+[Explore Bijumon R’s YouTube Courses](https://www.youtube.com/@bijumonr559/courses)
+
 ## How to Use These Resources Effectively
 
 1. **Start with the official syllabus.** Make a topic checklist.
