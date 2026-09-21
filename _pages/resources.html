@@ -1,0 +1,14 @@
+---
+layout: archive
+title: Resources
+permalink: /resources/
+author_profile: true
+---
+
+{% include base_path %}
+{% assign entries = site.resources | sort: "order" %}
+{% for post in entries %}
+  {% if post.published != false %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}

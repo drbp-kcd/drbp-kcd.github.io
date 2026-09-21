@@ -1,0 +1,14 @@
+---
+layout: archive
+title: Announcements
+permalink: /announcements/
+author_profile: true
+---
+
+{% include base_path %}
+{% assign entries = site.announcements | sort: "order" %}
+{% for post in entries %}
+  {% if post.published != false %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
