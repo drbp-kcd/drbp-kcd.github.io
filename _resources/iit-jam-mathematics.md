@@ -149,5 +149,3 @@ build both examination confidence and a stronger foundation
 for postgraduate mathematics.
 
 [Back to Resources]({{ '/resources/' | relative_url }})
-
-[Back to Resources]({{ '/resources/' | relative_url }})
