@@ -17,17 +17,17 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  # - title: "Portfolio"
-  #  url: /portfolio/
+  # - title: "Resources"
+  #  url: /resources/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Announcements"
+    url: /announcements/
     
   - title: "CV"
     url: /cv/
     
-  - title: "CV"
-    url: /cv-json/
+  # - title: "CV"
+  #  url: /cv-json/
     
   #  - title: "Guide"
   #  url: /markdown/
