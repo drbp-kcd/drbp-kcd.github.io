@@ -20,14 +20,7 @@ The following resources support the study of undergraduate and
 postgraduate mathematics, including foundations, problem-solving
 and further exploration.
 
-### Foundations: Problems and Practice
-
-Explore problems and articles related to set theory and
-mathematical foundations:
-
-[Browse Foundations Resources](https://4dspace.mtts.org.in/ea?search_string=set+theory&submitsearch=)
-
-### Expository Articles by Prof. Kumaresan
+### Foundations: Expository Articles by Prof. Kumaresan
 
 Download expository articles organized by mathematical subject
 and level of study.
