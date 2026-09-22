@@ -38,6 +38,10 @@ higher studies.
 Admission depends on your JAM rank, programme eligibility,
 available seats and the applicable admission process.
 
+## Expert Advice
+
+Explore topic-wise marks distributions and year-wise cut-off scores to help you plan your IIT JAM preparation effectively.
+
 ## Official IIT JAM Information
 
 ### JAM 2027
