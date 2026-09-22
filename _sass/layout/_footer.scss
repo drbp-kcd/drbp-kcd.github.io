@@ -2,6 +2,12 @@
    FOOTER
    ========================================================================== */
 
+/*
 .page__footer {
   display: none !important;
+}
+*/
+.page__footer {
+  background: transparent !important;
+  border-top: none !important;
 }
