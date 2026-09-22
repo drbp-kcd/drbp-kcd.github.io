@@ -47,7 +47,7 @@ to help you plan your IIT JAM preparation effectively.
 
 The following resource has been prepared by **Dr. Ashoka K.**
 
-[View or download the PDF — Expert Advice by Dr. Ashoka K.]({{ '/files/resources/iit-jam-expert-advice-ashoka-k.pdf' | relative_url }})
+[View or download the PDF — Expert Advice by Dr. Ashoka K.]({{ '/files/resources/JAM/iit-jam-expert-advice-ashoka-k.pdf' | relative_url }})
 
 ## Official IIT JAM Information
 
