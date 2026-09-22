@@ -46,6 +46,8 @@ Question banks provide opportunities to practise concepts, strengthen problem-so
 - [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/r-nep/semester-6/question-bank.pdf' | relative_url }})
 -->
 
+[Back to Resources]({{ '/resources/' | relative_url }})
+
 ### NEP Question Banks
 
 #### B.Sc. I Semester
@@ -84,6 +86,7 @@ Question banks provide opportunities to practise concepts, strengthen problem-so
 - [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/nep/semester-6/question-bank.pdf' | relative_url }})
 -->
 
+[Back to Resources]({{ '/resources/' | relative_url }})
 
 <!-- Add links after uploading the corresponding PDFs. Replace the example filename and label.
 - [Question bank — course, semester and scheme]({{ '/files/resources/kumta/question-bank.pdf' | relative_url }})
@@ -134,6 +137,7 @@ Laboratory manuals can help students connect mathematical ideas with computation
 - [Laboratory Manual — Course Title (PDF)]({{ '/files/resources/kumta/laboratory-manuals/r-nep/semester-6/laboratory-manual.pdf' | relative_url }})
 -->
 
+[Back to Resources]({{ '/resources/' | relative_url }})
 
 <!-- Add links after uploading the corresponding PDFs.
 - [Laboratory manual — course and edition]({{ '/files/resources/kumta/laboratory-manual.pdf' | relative_url }})
@@ -149,6 +153,8 @@ Where available, accompanying programs, practice files and supplementary notes w
 - [Accompanying source code — resource title (ZIP)]({{ '/files/resources/kumta/source-code.zip' | relative_url }})
 - [Supplementary notes — topic (PDF)]({{ '/files/resources/kumta/supplementary-notes.pdf' | relative_url }})
 -->
+
+[Back to Resources]({{ '/resources/' | relative_url }})
 
 ## Making the Most of These Resources
 
