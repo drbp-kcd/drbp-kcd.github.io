@@ -8,6 +8,8 @@ order: 2
 excerpt: Information about teaching positions, research opportunities and fellowships.
 ---
 
+<div markdown="1" style="text-align: justify;">
+  
 <h2>Success Stories</h2>
 
 <p>
