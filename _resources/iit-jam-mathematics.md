@@ -11,6 +11,8 @@ excerpt: Syllabus information, preparation materials, previous question papers a
 
 ## IIT JAM Mathematics: A Path to Higher Studies
 
+<div markdown="1" style="text-align: justify;">
+  
 The **Joint Admission Test for Masters (JAM)** is a national-level
 entrance examination that provides a route to M.Sc. and other
 postgraduate programmes at the **Indian Institutes of Technology
@@ -40,7 +42,12 @@ available seats and the applicable admission process.
 
 ## Expert Advice
 
-Explore topic-wise marks distributions and year-wise cut-off scores to help you plan your IIT JAM preparation effectively.
+Explore topic-wise marks distributions and year-wise cut-off scores
+to help you plan your IIT JAM preparation effectively.
+
+The following resource has been prepared by **Dr. Ashoka K.**
+
+[View or download the PDF — Expert Advice by Dr. Ashoka K.]({{ '/files/resources/iit-jam-expert-advice-ashoka-k.pdf' | relative_url }})
 
 ## Official IIT JAM Information
 
