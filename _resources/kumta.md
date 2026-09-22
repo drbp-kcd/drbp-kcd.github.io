@@ -25,26 +25,20 @@ Question banks provide opportunities to practise concepts, strengthen problem-so
 #### B.Sc. II Semester
 
 
-[Question Bank — B.Sc. II Semester (PDF)]({{ '/files/resources/KUMTA/R-NEP-BSc-2nd-Sem-QB.pdf' | relative_url }})
+- [Question Bank — B.Sc. II Semester (PDF)]({{ '/files/resources/KUMTA/R-NEP-BSc-2nd-Sem-QB.pdf' | relative_url }})
 
 
 #### B.Sc. III Semester
 
-<!--
-- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/r-nep/semester-3/question-bank.pdf' | relative_url }})
--->
+- [Question Bank — Course Title (PDF)]({{ '/files/resources/KUMTA/R-NEP-BSc-3rd-Sem-QB.pdf' | relative_url }})
 
 #### B.Sc. IV Semester
 
-<!--
-- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/r-nep/semester-4/question-bank.pdf' | relative_url }})
--->
+- [Question Bank — Course Title (PDF)]({{ '/files/resources/KUMTA/R-NEP-BSc-4th-Sem-QB-Modified.pdf' | relative_url }})
 
 #### B.Sc. V Semester
 
-<!--
-- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/r-nep/semester-5/question-bank.pdf' | relative_url }})
--->
+- [Question Bank — Course Title (PDF)]({{ '/files/resources/KUMTA/R-NEP-BSc-5th-Sem-QB-All-In-One.pdf' | relative_url }})
 
 #### B.Sc. VI Semester
 
