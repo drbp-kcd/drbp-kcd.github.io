@@ -19,7 +19,7 @@ Question banks provide opportunities to practise concepts, strengthen problem-so
 #### B.Sc. I Semester
 
 <!--
-- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/r-nep/semester-1/question-bank.pdf' | relative_url }})
+- [Question Bank — Course Title (PDF)]({{ '/files/resources/UMTA/R-NEP-BSc-1st-Sem-QB-RC-NEP.pdf' | relative_url }})
 -->
 
 #### B.Sc. II Semester
