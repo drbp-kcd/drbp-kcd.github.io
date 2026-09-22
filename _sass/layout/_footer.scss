@@ -7,6 +7,14 @@
   display: none !important;
 }
 */
+
+/* Hide Follow, Feed, copyright and update information */
+.page__footer-follow,
+.page__footer-copyright {
+  display: none !important;
+}
+
+/* Keep the footer and visitor counter visible */
 .page__footer {
   background: transparent !important;
   border-top: none !important;
