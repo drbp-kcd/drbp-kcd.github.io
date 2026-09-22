@@ -82,8 +82,6 @@ Question banks provide opportunities to practise concepts, strengthen problem-so
 - [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/nep/semester-6/question-bank.pdf' | relative_url }})
 -->
 
-[Back to Resources]({{ '/resources/' | relative_url }})
-
 <!-- Add links after uploading the corresponding PDFs. Replace the example filename and label.
 - [Question bank — course, semester and scheme]({{ '/files/resources/kumta/question-bank.pdf' | relative_url }})
 -->
