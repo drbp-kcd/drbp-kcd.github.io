@@ -53,24 +53,9 @@ from OFCM 2025 and earlier programmes.
 
 [Watch the MTTS YouTube Channel](https://www.youtube.com/c/mttsprogramme)
 
-## MTTS Souvenirs
-
-### MTTS 2026 Souvenir
-
-Learn more about MTTS activities and their impact.
-
-[View the MTTS 2026 Souvenir](https://mtts.org.in/downloads/mtts2026-souvenir)
-
-### MTTS 2024 Souvenir
-
-Read about ways to contribute to the programme. In particular,
-see **pages 23–24 and 58–59**.
-
-[View the MTTS 2024 Souvenir](https://mtts.org.in/downloads/mtts2024-souvenir)
-
 ## Share These Opportunities
 
-Students who have benefited from MTTS or OFCM are encouraged
+Students who have benefited from MTTS are encouraged
 to share these opportunities with their juniors and encourage
 eligible students to apply.
 
