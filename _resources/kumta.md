@@ -14,17 +14,132 @@ This page is dedicated to mathematics teaching and learning materials prepared b
 
 Question banks provide opportunities to practise concepts, strengthen problem-solving skills and prepare for examinations. Use them alongside your prescribed syllabus, textbooks and classroom notes.
 
-*Question banks will be added here with the relevant course, semester and scheme details.*
+### R-NEP Question Banks
+
+#### B.Sc. I Semester
+
+<!--
+- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/r-nep/semester-1/question-bank.pdf' | relative_url }})
+-->
+
+#### B.Sc. II Semester
+
+<!--
+- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/r-nep/semester-2/question-bank.pdf' | relative_url }})
+-->
+
+#### B.Sc. III Semester
+
+<!--
+- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/r-nep/semester-3/question-bank.pdf' | relative_url }})
+-->
+
+#### B.Sc. IV Semester
+
+<!--
+- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/r-nep/semester-4/question-bank.pdf' | relative_url }})
+-->
+
+#### B.Sc. V Semester
+
+<!--
+- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/r-nep/semester-5/question-bank.pdf' | relative_url }})
+-->
+
+#### B.Sc. VI Semester
+
+<!--
+- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/r-nep/semester-6/question-bank.pdf' | relative_url }})
+-->
+
+### NEP Question Banks
+
+#### B.Sc. I Semester
+
+<!--
+- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/nep/semester-1/question-bank.pdf' | relative_url }})
+-->
+
+#### B.Sc. II Semester
+
+<!--
+- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/nep/semester-2/question-bank.pdf' | relative_url }})
+-->
+
+#### B.Sc. III Semester
+
+<!--
+- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/nep/semester-3/question-bank.pdf' | relative_url }})
+-->
+
+#### B.Sc. IV Semester
+
+<!--
+- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/nep/semester-4/question-bank.pdf' | relative_url }})
+-->
+
+#### B.Sc. V Semester
+
+<!--
+- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/nep/semester-5/question-bank.pdf' | relative_url }})
+-->
+
+#### B.Sc. VI Semester
+
+<!--
+- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/nep/semester-6/question-bank.pdf' | relative_url }})
+-->
+
 
 <!-- Add links after uploading the corresponding PDFs. Replace the example filename and label.
 - [Question bank — course, semester and scheme]({{ '/files/resources/kumta/question-bank.pdf' | relative_url }})
 -->
 
+[Back to Resources]({{ '/resources/' | relative_url }})
+
+
 ## Laboratory Manuals
 
 Laboratory manuals can help students connect mathematical ideas with computational practice. For each manual, check the course requirements and any software instructions provided in the document.
 
-*Laboratory manuals will be added here with their course and edition details.*
+### R-NEP Laboratory Manuals
+
+#### B.Sc. I Semester
+
+<!--
+- [Laboratory Manual — Course Title (PDF)]({{ '/files/resources/kumta/laboratory-manuals/r-nep/semester-1/laboratory-manual.pdf' | relative_url }})
+-->
+
+#### B.Sc. II Semester
+
+<!--
+- [Laboratory Manual — Course Title (PDF)]({{ '/files/resources/kumta/laboratory-manuals/r-nep/semester-2/laboratory-manual.pdf' | relative_url }})
+-->
+
+#### B.Sc. III Semester
+
+<!--
+- [Laboratory Manual — Course Title (PDF)]({{ '/files/resources/kumta/laboratory-manuals/r-nep/semester-3/laboratory-manual.pdf' | relative_url }})
+-->
+
+#### B.Sc. IV Semester
+
+<!--
+- [Laboratory Manual — Course Title (PDF)]({{ '/files/resources/kumta/laboratory-manuals/r-nep/semester-4/laboratory-manual.pdf' | relative_url }})
+-->
+
+#### B.Sc. V Semester
+
+<!--
+- [Laboratory Manual — Course Title (PDF)]({{ '/files/resources/kumta/laboratory-manuals/r-nep/semester-5/laboratory-manual.pdf' | relative_url }})
+-->
+
+#### B.Sc. VI Semester
+
+<!--
+- [Laboratory Manual — Course Title (PDF)]({{ '/files/resources/kumta/laboratory-manuals/r-nep/semester-6/laboratory-manual.pdf' | relative_url }})
+-->
+
 
 <!-- Add links after uploading the corresponding PDFs.
 - [Laboratory manual — course and edition]({{ '/files/resources/kumta/laboratory-manual.pdf' | relative_url }})
