@@ -28,6 +28,8 @@ Draft regulations governing three-year undergraduate programmes at Karnatak Univ
 - [Academic guidelines — programme and academic year]({{ '/files/resources/kud/academic-guidelines.pdf' | relative_url }})
 -->
 
+[Back to Resources]({{ '/resources/' | relative_url }})
+
 ## Mathematics Syllabi
 
 Use the syllabus applicable to your programme, semester and admission batch to plan your studies and identify the prescribed topics.
@@ -37,7 +39,7 @@ Use the syllabus applicable to your programme, semester and admission batch to p
 B.Sc. I, II, V & VI Semesters Mathematics syllabus effective from the academic year
 2026–27, as per the revised NEP: 2024 and Revised Credit System (RC-NEP): 2026.
 
-[View or download the B.Sc.I, II, V & VI Mathematics Syllabus — 2026–27 R-NEP & RC-NEP (PDF)]({{ '/files/resources/KUD/bsc-I-V-mathematics-syllabus-2026-27' | relative_url }})
+[View or download the B.Sc.I, II, V & VI Mathematics Syllabus — 2026–27 R-NEP & RC-NEP (PDF)]({{ '/files/resources/KUD/bsc-I-V-mathematics-syllabus-2026-27.pdf' | relative_url }})
 
 ### B.Sc. Mathematics Syllabus — Effective from 2024–25
 
@@ -49,6 +51,8 @@ B.Sc. Mathematics syllabus effective from the academic year
 <!-- Add links after uploading the PDFs. Include the programme, semester and applicable scheme/year in each label.
 - [Mathematics syllabus — programme, semester and scheme]({{ '/files/resources/kud/mathematics-syllabus.pdf' | relative_url }})
 -->
+
+[Back to Resources]({{ '/resources/' | relative_url }})
 
 ## Previous-Year Question Papers
 
