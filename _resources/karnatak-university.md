@@ -179,7 +179,9 @@ semester. Select papers that match your prescribed syllabus.
 - [Course title — semester — examination month and year]({{ '/files/resources/kud/previous-year-question-paper.pdf' | relative_url }})
 -->
 
+
 [Back to Resources]({{ '/resources/' | relative_url }})
+
 
 ## How to Use These Materials
 
