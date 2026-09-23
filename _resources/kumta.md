@@ -97,39 +97,27 @@ Laboratory manuals can help students connect mathematical ideas with computation
 
 #### B.Sc. I Semester
 
-<!--
-- [Laboratory Manual — Course Title (PDF)]({{ '/files/resources/kumta/laboratory-manuals/r-nep/semester-1/laboratory-manual.pdf' | relative_url }})
--->
+- [Question Bank — B.Sc. I Semester-RC-NEP (PDF)]({{ '/files/resources/KUMTA/R-NEP-BSc-1st-Sem-QB-RC-NEP.pdf' | relative_url }})
 
 #### B.Sc. II Semester
 
-<!--
-- [Laboratory Manual — Course Title (PDF)]({{ '/files/resources/kumta/laboratory-manuals/r-nep/semester-2/laboratory-manual.pdf' | relative_url }})
--->
+- [Question Bank — B.Sc. I Semester-RC-NEP (PDF)]({{ '/files/resources/KUMTA/R-NEP-BSc-1st-Sem-QB-RC-NEP.pdf' | relative_url }})
 
 #### B.Sc. III Semester
 
-<!--
-- [Laboratory Manual — Course Title (PDF)]({{ '/files/resources/kumta/laboratory-manuals/r-nep/semester-3/laboratory-manual.pdf' | relative_url }})
--->
+- [Question Bank — B.Sc. I Semester-RC-NEP (PDF)]({{ '/files/resources/KUMTA/R-NEP-BSc-1st-Sem-QB-RC-NEP.pdf' | relative_url }})
 
 #### B.Sc. IV Semester
 
-<!--
-- [Laboratory Manual — Course Title (PDF)]({{ '/files/resources/kumta/laboratory-manuals/r-nep/semester-4/laboratory-manual.pdf' | relative_url }})
--->
+- [Question Bank — B.Sc. I Semester-RC-NEP (PDF)]({{ '/files/resources/KUMTA/R-NEP-BSc-1st-Sem-QB-RC-NEP.pdf' | relative_url }})
 
 #### B.Sc. V Semester
 
-<!--
-- [Laboratory Manual — Course Title (PDF)]({{ '/files/resources/kumta/laboratory-manuals/r-nep/semester-5/laboratory-manual.pdf' | relative_url }})
--->
+- [Question Bank — B.Sc. I Semester-RC-NEP (PDF)]({{ '/files/resources/KUMTA/R-NEP-BSc-1st-Sem-QB-RC-NEP.pdf' | relative_url }})
 
 #### B.Sc. VI Semester
 
-<!--
-- [Laboratory Manual — Course Title (PDF)]({{ '/files/resources/kumta/laboratory-manuals/r-nep/semester-6/laboratory-manual.pdf' | relative_url }})
--->
+- [Question Bank — B.Sc. I Semester-RC-NEP (PDF)]({{ '/files/resources/KUMTA/R-NEP-BSc-1st-Sem-QB-RC-NEP.pdf' | relative_url }})
 
 [Back to Resources]({{ '/resources/' | relative_url }})
 
