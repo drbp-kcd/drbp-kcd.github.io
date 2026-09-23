@@ -65,11 +65,11 @@ semester. Select papers that match your prescribed syllabus.
 
 #### B.Sc. I Semester
 
-- [B.Sc. I Semester-RNEP 26-25 (PDF)]({{ '/files/resources//KUD/Question-Paper/RNEP/I-Sem-RNEP-25-26.pdf' | relative_url }})
+- [B.Sc. I Semester-RNEP 26-25 (PDF)]({{ '/files/resources//KUD/Question-Paper/RNEP/I-Sem-RNEP-26-25.pdf' | relative_url }})
 
 #### B.Sc. II Semester
 
-- [B.Sc. II Semester-RNEP 26 (PDF)]({{ '/files/resources//KUD/Question-Paper/RNEP/II-Sem-RNEP-26.pdf' | relative_url }})
+- [B.Sc. II Semester-RNEP 26-25 (PDF)]({{ '/files/resources//KUD/Question-Paper/RNEP/II-Sem-RNEP-26-25.pdf' | relative_url }})
 
 #### B.Sc. III Semester
 
