@@ -132,6 +132,9 @@ semester. Select papers that match your prescribed syllabus.
 - [Course title — Month Year (PDF)]({{ '/files/resources/kud/question-papers/nep/semester-6/course-name-year.pdf' | relative_url }})
 -->
 
+[Back to Resources]({{ '/resources/' | relative_url }})
+
+
 ### CBCS Question Papers
 
 #### B.Sc. I Semester
