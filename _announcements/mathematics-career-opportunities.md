@@ -23,7 +23,7 @@ encouragement as you plan your own path. Click a name to read the story.
 
   <p>
     <strong>Achievement:</strong> From a government education background
-    to Principal Software Engineer at a multinational corporation.
+    to Principal Software Engineer at a multinational corporation, Broadcom, Hyderabad.
   </p>
 
   <p>
@@ -49,7 +49,7 @@ encouragement as you plan your own path. Click a name to read the story.
     Although I remained unfocused during M.Tech., I was selected in
     the only campus interview I attended. Once employed, I took my
     responsibilities seriously and grew into a consistent top
-    performer. Today, I work as a Principal Software Engineer,
+    performer. Today, I work as a Principal Software Engineer at Broadcom, Hyderabad,
     grateful for the opportunities that followed my early setbacks.
   </p>
 
