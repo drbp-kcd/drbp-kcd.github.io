@@ -17,26 +17,28 @@ excerpt: Updates about class schedules, lecture notes, assignments and assessmen
 
 <details>
   <summary>
-    <strong>Announcement Title — Date</strong>
+    <strong>Updated Class Notes — 06 Sep 2026</strong>
   </summary>
 
   <ul>
-    <li><strong>Course:</strong> Course name</li>
-    <li><strong>Class/Semester:</strong> Class or semester</li>
-    <li><strong>Date:</strong> Relevant date</li>
-    <li><strong>Time:</strong> Time, if applicable</li>
-    <li><strong>Venue:</strong> Classroom or online platform, if applicable</li>
+    <li><strong>Course:</strong> Algebra-I and Calculus–I </li>
+    <li><strong>Class/Semester:</strong> I-Semester</li>
+    <li><strong>Date:</strong> 06 Sep 2026</li>
+    <li><strong>Time:</strong> ... </li>
+    <li><strong>Venue:</strong> .... </li>
   </ul>
 
   <p>
-    Enter the announcement here, including any changes to the class
-    schedule, availability of lecture notes, assignment instructions
-    or assessment details.
+    Dear students, access the updated class notes at <p>
+    <a href="https://drbp-kcd.github.io/teaching/"
+       target="_blank" rel="noopener noreferrer">
+      Click here to access the notes
+    </a>
+  </p>
   </p>
 
   <p>
-    <strong>Action required:</strong> Specify what students should
-    complete or prepare, along with the deadline, if applicable.
+    <strong>Action required:</strong> Dear students, in the next class, I will check your notebooks. The notes should be complete and written entirely in your notebook. If you fail to do so, you will not be allowed to attend the class.
   </p>
 
   <!-- Replace the placeholder link below, or remove this paragraph. -->
