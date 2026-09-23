@@ -44,54 +44,15 @@ Question banks provide opportunities to practise concepts, strengthen problem-so
 
 [Back to Resources]({{ '/resources/' | relative_url }})
 
-### NEP Question Banks
-
-#### B.Sc. I Semester
-
-<!--
-- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/nep/semester-1/question-bank.pdf' | relative_url }})
--->
-
-#### B.Sc. II Semester
-
-<!--
-- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/nep/semester-2/question-bank.pdf' | relative_url }})
--->
-
-#### B.Sc. III Semester
-
-<!--
-- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/nep/semester-3/question-bank.pdf' | relative_url }})
--->
-
-#### B.Sc. IV Semester
-
-<!--
-- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/nep/semester-4/question-bank.pdf' | relative_url }})
--->
-
-#### B.Sc. V Semester
-
-<!--
-- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/nep/semester-5/question-bank.pdf' | relative_url }})
--->
-
-#### B.Sc. VI Semester
-
-<!--
-- [Question Bank — Course Title (PDF)]({{ '/files/resources/kumta/question-banks/nep/semester-6/question-bank.pdf' | relative_url }})
--->
-
-<!-- Add links after uploading the corresponding PDFs. Replace the example filename and label.
-- [Question bank — course, semester and scheme]({{ '/files/resources/kumta/question-bank.pdf' | relative_url }})
--->
-
-[Back to Resources]({{ '/resources/' | relative_url }})
 
 
 ## Laboratory Manuals
 
 Laboratory manuals can help students connect mathematical ideas with computational practice. For each manual, check the course requirements and any software instructions provided in the document.
+
+### Acknowledgement
+
+Credit for materials shared here belongs to KUMTA and the respective authors, editors and contributors named in each document. Please retain these acknowledgements and follow any usage conditions stated in the materials.
 
 ### R-NEP Laboratory Manuals
 
@@ -157,8 +118,5 @@ Where available, accompanying programs, practice files and supplementary notes w
 - Record your reasoning, computations and observations clearly.
 - Check that the resource matches your current syllabus and prescribed software.
 
-## Acknowledgement
-
-Credit for materials shared here belongs to KUMTA and the respective authors, editors and contributors named in each document. Please retain these acknowledgements and follow any usage conditions stated in the materials.
 
 [Back to Resources]({{ '/resources/' | relative_url }})
