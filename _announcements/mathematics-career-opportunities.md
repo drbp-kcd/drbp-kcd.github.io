@@ -14,30 +14,50 @@ excerpt: Information about teaching positions, research opportunities and fellow
 
 <p>
 Discover the journeys of students and professionals who have pursued
-opportunities in mathematics. Their experiences can offer guidance
-and encouragement as you plan your own academic and career path.
-Click a name to read the story.
+opportunities in mathematics. Their experiences offer guidance and
+encouragement as you plan your own path. Click a name to read the story.
 </p>
-
-<!-- Replace the example name and text with the person's actual details. -->
 
 <details>
   <summary><strong>Person’s Name</strong></summary>
 
-  <p><strong>Achievement:</strong> Enter the achievement here.</p>
-
   <p>
-    Describe the person’s academic background and interest in mathematics.
+    <strong>Achievement:</strong> From a government education background
+    to Principal Software Engineer at a multinational corporation.
   </p>
 
   <p>
-    Explain how they prepared, the challenges they faced,
-    and how they achieved their goal.
+    Educated entirely in government institutions, I completed my B.Ed.
+    after initially missing admission to M.Sc. Mathematics. Later, I
+    ranked second in a teacher recruitment examination but missed the
+    only available School Assistant post in my district. This was
+    deeply disappointing, but securing first rank in the M.Sc.
+    Mathematics entrance examination restored my confidence and
+    brought me to Osmania University.
   </p>
 
   <p>
-    <strong>Advice for students:</strong>
-    Add their suggestions, study strategies or words of encouragement.
+    Confidence soon turned into overconfidence. I neglected my studies
+    and completed my M.Sc. with 60%. I then secured an All-India rank
+    of 82 in GATE without preparation, but failed to qualify the
+    following year despite dedicating a year to preparation.
+    Fortunately, my earlier GATE score helped me gain admission
+    to M.Tech. at NITK Surathkal.
+  </p>
+
+  <p>
+    Although I remained unfocused during M.Tech., I was selected in
+    the only campus interview I attended. Once employed, I took my
+    responsibilities seriously and grew into a consistent top
+    performer. Today, I work as a Principal Software Engineer,
+    grateful for the opportunities that followed my early setbacks.
+  </p>
+
+  <p>
+    <strong>Advice for students:</strong> A setback does not define
+    your future, and a high rank does not guarantee lasting success.
+    Stay humble, prepare consistently, take responsibility, and
+    make the most of every opportunity.
   </p>
 </details>
 
