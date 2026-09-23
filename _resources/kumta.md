@@ -104,7 +104,7 @@ Where available, accompanying programs, practice files and supplementary notes w
 
 #### B.Sc. V Semester
 
-- [Laboratory Manual-Source Code — KUMTA (PDF)]({{ '/publication/python-programming-laboratory-book' | relative_url }})
+- [Laboratory Manual-Source Code — KUMTA (ZIP)]({{ '/publication/python-programming-laboratory-book' | relative_url }})
 
 <!-- Enable only the links for files that have been uploaded.
 - [Accompanying source code — resource title (ZIP)]({{ '/files/resources/kumta/source-code.zip' | relative_url }})
