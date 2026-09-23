@@ -40,6 +40,58 @@ higher studies.
 Admission depends on your JAM rank, programme eligibility,
 available seats and the applicable admission process.
 
+<div markdown="1" style="text-align: justify;">
+  
+<h2>Success Stories</h2>
+
+<p>
+Discover the journeys of students who have qualified IIT JAM in
+Mathematics. Their preparation strategies, experiences, and achievements
+offer guidance and encouragement as you prepare for the examination.
+Click a name to read the story.
+</p>
+
+<details>
+  <summary><strong>Mallappa Mellikeri</strong></summary>
+
+  <p>
+    <strong>Achievement:</strong> Qualified CSIR NET-JRF three
+    consecutive times and GATE Mathematics three times; currently
+    serving as an Assistant Professor of Mathematics at
+    Vidyavardaka College of Engineering, Mysuru.
+  </p>
+
+  <p>
+    Through consistent hard work, I qualified CSIR NET-JRF with
+    All-India ranks of 61, 98, and 156, and GATE Mathematics with
+    All-India ranks of 1196, 1256, and 1812. I also cleared KSET
+    and secured All-India rank 28 in IIT JAM.
+  </p>
+
+  <p>
+    These qualifications opened opportunities to pursue a Ph.D.
+    in Graph Theory with a fellowship of ₹45,000 per month and
+    helped pave the way for my career as an Assistant Professor
+    of Mathematics.
+  </p>
+
+  <p>
+    Coming from a background similar to yours, I once sat on
+    the same benches with hopes for my future. My journey shows
+    how steady preparation and perseverance can turn aspirations
+    into achievements.
+  </p>
+
+  <p>
+    <strong>Advice for students:</strong> If I can do it, you can
+    do it too. Approach these examinations with a clear strategy,
+    consistent effort, and self-belief. Believe in your potential
+    and begin today—your journey can be even more remarkable
+    than mine.
+  </p>
+</details>
+
+
 ## Expert Advice
 
 Explore topic-wise marks distributions and year-wise cut-off scores
