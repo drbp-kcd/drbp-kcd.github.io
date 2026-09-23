@@ -65,27 +65,19 @@ semester. Select papers that match your prescribed syllabus.
 
 #### B.Sc. I Semester
 
-<!--
-- [Course title — Month Year (PDF)]({{ '/files/resources/kud/question-papers/r-nep/semester-1/course-name-year.pdf' | relative_url }})
--->
+- [B.Sc. I Semester-RNEP 26-25 (PDF)]({{ '/files/resources//KUD/Question-Paper/RNEP/I-Sem-RNEP-25-26.pdf' | relative_url }})
 
 #### B.Sc. II Semester
 
-<!--
-- [Course title — Month Year (PDF)]({{ '/files/resources/kud/question-papers/r-nep/semester-2/course-name-year.pdf' | relative_url }})
--->
+- [B.Sc. I Semester-RNEP 26 (PDF)]({{ '/files/resources//KUD/Question-Paper/RNEP/II-Sem-RNEP-26.pdf' | relative_url }})
 
 #### B.Sc. III Semester
 
-<!--
-- [Course title — Month Year (PDF)]({{ '/files/resources/kud/question-papers/r-nep/semester-3/course-name-year.pdf' | relative_url }})
--->
+- [B.Sc. I Semester-RNEP 26 (PDF)]({{ '/files/resources//KUD/Question-Paper/RNEP/III-Sem-RNEP-26.pdf' | relative_url }})
 
 #### B.Sc. IV Semester
 
-<!--
-- [Course title — Month Year (PDF)]({{ '/files/resources/kud/question-papers/r-nep/semester-4/course-name-year.pdf' | relative_url }})
--->
+- [B.Sc. I Semester-RNEP 26 (PDF)]({{ '/files/resources//KUD/Question-Paper/RNEP/IV-Sem-RNEP-26.pdf' | relative_url }})
 
 #### B.Sc. V Semester
 
