@@ -21,24 +21,25 @@ excerpt: Updates about class schedules, lecture notes, assignments and assessmen
   </summary>
 
   <ul>
-    <li><strong>Course:</strong> Algebra-I and Calculus–I </li>
-    <li><strong>Class/Semester:</strong> I-Semester</li>
+    <li><strong>Course:</strong> Algebra–I and Calculus–I</li>
+    <li><strong>Class/Semester:</strong> I Semester</li>
     <li><strong>Date:</strong> 06 Sep 2026</li>
-    <li><strong>Time:</strong> ... </li>
-    <li><strong>Venue:</strong> .... </li>
   </ul>
 
   <p>
-    Dear students, access the updated class notes at <p>
-    <a href="https://drbp-kcd.github.io/teaching/"
-      Click here to access the notes
+    Dear students, the updated class notes are now available.
+    <a href="https://drbp-kcd.github.io/teaching/">
+      Click here to access the notes.
     </a>
-  </p>
   </p>
 
   <p>
-    <strong>Action required:</strong> Dear students, in the next class, I will check your notebooks. The notes should be complete and written entirely in your notebook. If you fail to do so, you will not be allowed to attend the class.
+    <strong>Action required:</strong> Please ensure that all the updated
+    notes are written in full in your notebooks before the next class.
+    I will check your notebooks during the next class. Students with
+    incomplete notes will not be permitted to attend the class.
   </p>
+</details>
 
 <!-- Replace the message above with real notices. Put the newest first.
 ### Your announcement title
