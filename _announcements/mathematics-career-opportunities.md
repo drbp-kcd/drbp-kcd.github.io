@@ -61,6 +61,51 @@ encouragement as you plan your own path. Click a name to read the story.
   </p>
 </details>
 
+<details>
+  <summary><strong>Raja Shekar Badri</strong></summary>
+
+  <p>
+    <strong>Achievement:</strong> Secured All-India rank 49 in GATE
+    Mathematics and progressed to a software career; currently
+    working as an Associate Consultant at TCS, Hyderabad.
+  </p>
+
+  <p>
+    My interest in Mathematics began in Class 8 and grew through
+    regular practice. I consistently scored around 90% in the
+    subject during school and B.Sc., developing analytical thinking
+    and problem-solving skills.
+  </p>
+
+  <p>
+    After B.Sc., I secured 11th rank in the University of Hyderabad
+    M.Sc. Mathematics entrance examination, 14th rank in Osmania
+    University’s entrance examination, and 127th rank in the B.Ed.
+    entrance examination. Personal circumstances interrupted my
+    M.Sc. at the University of Hyderabad, but I continued my education,
+    completing B.Ed. and then M.Sc. Mathematics at Osmania University.
+  </p>
+
+  <p>
+    My GATE Mathematics rank of 49 enabled me to pursue M.Tech.
+    at NIT Surathkal. Campus placement brought my first role as a
+    Software Engineer at Computer Associates. Today, at TCS,
+    I continue to draw on the skills Mathematics helped me develop.
+  </p>
+
+  <p>
+    <strong>Advice for students:</strong> Mathematics becomes easier
+    with consistent practice, patience, and perseverance. Embrace
+    challenging problems, believe in yourself, and remember that
+    small, steady efforts can lead to remarkable achievements.
+  </p>
+</details>
+
+
+
+
+
+
 No career opportunities have been posted yet.
 
 <!-- Replace the message above with real notices. Put the newest first.
