@@ -31,7 +31,6 @@ excerpt: Updates about class schedules, lecture notes, assignments and assessmen
   <p>
     Dear students, access the updated class notes at <p>
     <a href="https://drbp-kcd.github.io/teaching/"
-       target="_blank" rel="noopener noreferrer">
       Click here to access the notes
     </a>
   </p>
@@ -40,14 +39,6 @@ excerpt: Updates about class schedules, lecture notes, assignments and assessmen
   <p>
     <strong>Action required:</strong> Dear students, in the next class, I will check your notebooks. The notes should be complete and written entirely in your notebook. If you fail to do so, you will not be allowed to attend the class.
   </p>
-
-  <!-- Replace the placeholder link below, or remove this paragraph. -->
-  <p>
-    <a href="LINK_HERE" target="_blank" rel="noopener noreferrer">
-      View related materials
-    </a>
-  </p>
-</details>
 
 <!-- Replace the message above with real notices. Put the newest first.
 ### Your announcement title
