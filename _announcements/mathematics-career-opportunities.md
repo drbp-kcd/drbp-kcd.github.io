@@ -68,6 +68,10 @@ encouragement as you plan your own path. Click a name to read the story.
     <strong>Achievement:</strong> Secured All-India rank 49 in GATE
     Mathematics and progressed to a software career; currently
     working as an Associate Consultant at TCS, Hyderabad.
+    To visit his profile,
+    <a href="https://www.linkedin.com/in/raja-shekar-badri-46b31b378?utm_source=share_via&utm_content=profile">
+      Click here.
+    </a>
   </p>
 
   <p>
