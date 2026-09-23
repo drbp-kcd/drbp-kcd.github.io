@@ -49,6 +49,10 @@ The following resource has been prepared by **Dr. Ashoka K.**
 
 [View or download the PDF — Expert Advice by Dr. Ashoka K.]({{ '/files/resources/JAM/iit-jam-expert-advice-ashoka-k.pdf' | relative_url }})
 
+The following resource has been prepared by **Mallappa Mellikeri**
+
+[View or download the PDF — Expert Advice by Mallappa Mellikeri]({{ '/files/resources/JAM/IIT-JAM-Workshop-Mallappa.pdf' | relative_url }})
+
 ## Official IIT JAM Information
 
 ### JAM 2027
