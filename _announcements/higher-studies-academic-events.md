@@ -72,15 +72,6 @@ excerpt: Updates on admissions, entrance examinations, workshops, conferences an
   </p>
 </details>
 
-<!-- Replace the message above with real notices. Put the newest first.
-### Your announcement title
-**Posted:** DD Month YYYY
 
-Announcement details.
-
-[Official notice](https://example.com)
-
----
--->
 
 [Back to Announcements]({{ '/announcements/' | relative_url }})
