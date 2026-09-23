@@ -97,27 +97,39 @@ Laboratory manuals can help students connect mathematical ideas with computation
 
 #### B.Sc. I Semester
 
-- [Question Bank — B.Sc. I Semester-RC-NEP (PDF)]({{ '/files/resources/KUMTA/R-NEP-BSc-1st-Sem-QB-RC-NEP.pdf' | relative_url }})
+- [Laboratory Manual — KUMTA (PDF)]({{ '/files/resources/KUMTA/Lab-Manual/BSc-I-Sem-2024-25-KUMTA.pdf' | relative_url }})
 
 #### B.Sc. II Semester
 
-- [Question Bank — B.Sc. I Semester-RC-NEP (PDF)]({{ '/files/resources/KUMTA/R-NEP-BSc-1st-Sem-QB-RC-NEP.pdf' | relative_url }})
+- [Laboratory Manual — KUMTA (PDF)]({{ '/files/resources/KUMTA/Lab-Manual/BSc-II-Sem-2024-25-KUMTA.pdf' | relative_url }})
+  
+- [Laboratory Manual — Dr. Prabha S. M. & Mr. Akash T. N. (PDF)]({{ '/files/resources/KUMTA/Lab-Manual/BSc-II-Sem-2024-25-Mandalageri.pdf' | relative_url }})
 
 #### B.Sc. III Semester
 
-- [Question Bank — B.Sc. I Semester-RC-NEP (PDF)]({{ '/files/resources/KUMTA/R-NEP-BSc-1st-Sem-QB-RC-NEP.pdf' | relative_url }})
+- [Laboratory Manual — Dr. Prabha S. M. (PDF)]({{ '/files/resources/KUMTA/Lab-Manual/BSc-III-Sem-25-26-Mandalageri.pdf' | relative_url }})
+
+- [Laboratory Manual — JSS College (PDF)]({{ '/files/resources/KUMTA/Lab-Manual/BSc-III-Sem-25-26-JSS.pdf' | relative_url }})
 
 #### B.Sc. IV Semester
 
-- [Question Bank — B.Sc. I Semester-RC-NEP (PDF)]({{ '/files/resources/KUMTA/R-NEP-BSc-1st-Sem-QB-RC-NEP.pdf' | relative_url }})
+- [DSC-Laboratory Manual — KUMTA (PDF)]({{ '/files/resources/KUMTA/Lab-Manual/BSc-IV-Sem-25-26-KUMTA.pdf' | relative_url }})
+
+- [DSC-Laboratory Manual — Dr. Prabha S. M. (PDF)]({{ '/files/resources/KUMTA/Lab-Manual/BSc-IV-Sem-25-26-Mandalageri.pdf' | relative_url }})
+
+- [SEC-Laboratory Manual-IV/V/VI Semesters — KUMTA (PDF)]({{ '/files/resources/KUMTA/Lab-Manual/BSc-IV-Sem-SEC-25-26-KUMTA.pdf' | relative_url }})
+
+- [SEC-Laboratory Manual-IV/V/VI Semesters — KCD & KUMTA (PDF)]({{ '/files/resources/KUMTA/Lab-Manual/BSc-IV-Sem-SEC-25-26-Mandalageri.pdf' | relative_url }})
 
 #### B.Sc. V Semester
 
-- [Question Bank — B.Sc. I Semester-RC-NEP (PDF)]({{ '/files/resources/KUMTA/R-NEP-BSc-1st-Sem-QB-RC-NEP.pdf' | relative_url }})
+- [Laboratory Manual — KUMTA (PDF)]({{ '/files/resources/KUMTA/Lab-Manual/R-NEP-BSc-1st-Sem-QB-RC-NEP.pdf' | relative_url }})
+
+- [DSC-Laboratory Manual — Dr. Prabha S. M. (PDF)]({{ '/files/resources/KUMTA/Lab-Manual/BSc-V-Sem-26-27-Mandalageri.pdf' | relative_url }})
 
 #### B.Sc. VI Semester
 
-- [Question Bank — B.Sc. I Semester-RC-NEP (PDF)]({{ '/files/resources/KUMTA/R-NEP-BSc-1st-Sem-QB-RC-NEP.pdf' | relative_url }})
+
 
 [Back to Resources]({{ '/resources/' | relative_url }})
 
