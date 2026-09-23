@@ -123,7 +123,7 @@ Laboratory manuals can help students connect mathematical ideas with computation
 
 #### B.Sc. V Semester
 
-- [Laboratory Manual — KUMTA (PDF)]({{ '/publication/python-programming-laboratory-book/' | relative_url }})
+- [Laboratory Manual — KUMTA (PDF)]({{ '/publication/python-programming-laboratory-book' | relative_url }})
 
 - [DSC-Laboratory Manual — Dr. Prabha S. M. (PDF)]({{ '/files/resources/KUMTA/Lab-Manual/BSc-V-Sem-26-27-Mandalageri.pdf' | relative_url }})
 
