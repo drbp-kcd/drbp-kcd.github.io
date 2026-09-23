@@ -102,7 +102,9 @@ Credit for materials shared here belongs to KUMTA and the respective authors, ed
 
 Where available, accompanying programs, practice files and supplementary notes will be provided with the relevant manual or learning resource.
 
-*Supporting materials will be added as they become available.*
+#### B.Sc. V Semester
+
+- [Laboratory Manual-Source Code — KUMTA (PDF)]({{ '/publication/python-programming-laboratory-book' | relative_url }})
 
 <!-- Enable only the links for files that have been uploaded.
 - [Accompanying source code — resource title (ZIP)]({{ '/files/resources/kumta/source-code.zip' | relative_url }})
