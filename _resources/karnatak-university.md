@@ -135,50 +135,6 @@ semester. Select papers that match your prescribed syllabus.
 [Back to Resources]({{ '/resources/' | relative_url }})
 
 
-### CBCS Question Papers
-
-#### B.Sc. I Semester
-
-<!--
-- [Course title — Month Year (PDF)]({{ '/files/resources/kud/question-papers/cbcs/semester-1/course-name-year.pdf' | relative_url }})
--->
-
-#### B.Sc. II Semester
-
-<!--
-- [Course title — Month Year (PDF)]({{ '/files/resources/kud/question-papers/cbcs/semester-2/course-name-year.pdf' | relative_url }})
--->
-
-#### B.Sc. III Semester
-
-<!--
-- [Course title — Month Year (PDF)]({{ '/files/resources/kud/question-papers/cbcs/semester-3/course-name-year.pdf' | relative_url }})
--->
-
-#### B.Sc. IV Semester
-
-<!--
-- [Course title — Month Year (PDF)]({{ '/files/resources/kud/question-papers/cbcs/semester-4/course-name-year.pdf' | relative_url }})
--->
-
-#### B.Sc. V Semester
-
-<!--
-- [Course title — Month Year (PDF)]({{ '/files/resources/kud/question-papers/cbcs/semester-5/course-name-year.pdf' | relative_url }})
--->
-
-#### B.Sc. VI Semester
-
-<!--
-- [Course title — Month Year (PDF)]({{ '/files/resources/kud/question-papers/cbcs/semester-6/course-name-year.pdf' | relative_url }})
--->
-
-<!-- Add one link for each uploaded question paper.
-- [Course title — semester — examination month and year]({{ '/files/resources/kud/previous-year-question-paper.pdf' | relative_url }})
--->
-
-[Back to Resources]({{ '/resources/' | relative_url }})
-
 
 ## How to Use These Materials
 
