@@ -66,7 +66,7 @@ Click a name to read the story.
   <p>
     My interest in Mathematics began at school and led me to pursue
     B.Sc. at Karnatak Science College, Dharwad. My first-semester
-    Linear Algebra course with Prof. Parvathalu and participation
+    Linear Algebra course with Prof. Parvathalu Sir and participation
     in the MTTS programme at IISER Trivandrum during my final year
     deepened my interest in Pure Mathematics and strengthened my
     analytical thinking and rigorous problem-solving skills.
