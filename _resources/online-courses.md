@@ -5,8 +5,7 @@ layout: single
 permalink: /resources/online-courses/
 author_profile: true
 order: 2
-excerpt: Online learning opportunities in mathematics, programming and mathematical
-  computing.
+excerpt: Online learning opportunities in mathematics, programming and mathematical computing.
 ---
 
 ## Learn Mathematics Beyond the Classroom
