@@ -37,3 +37,10 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Justify resource paragraphs on mobile only */
+@media screen and (max-width: 767px) {
+  .resource-page .page__content p {
+    text-align: justify;
+  }
+}
