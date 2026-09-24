@@ -52,6 +52,41 @@ Click a name to read the story.
 </p>
 
 <details>
+  <summary><strong>Akshay V Kulkarni, KCD Student</strong></summary>
+
+  <p>
+    <strong>Achievement:</strong> Secured All-India rank 219 in IIT JAM
+    2021, completed M.Sc. at IIT Guwahati, and currently works as a
+    Consultant at Deloitte USI, Hyderabad, in AI and Data Engineering.
+  </p>
+
+  <p>
+    My interest in Mathematics began at school and led me to pursue
+    B.Sc. at Karnatak Science College, Dharwad. My first-semester
+    Linear Algebra course with Prof. Parvathalu and participation
+    in the MTTS programme at IISER Trivandrum during my final year
+    deepened my interest in Pure Mathematics and strengthened my
+    analytical thinking and rigorous problem-solving skills.
+  </p>
+
+  <p>
+    After initially failing to qualify for IIT JAM, I took a one-year
+    gap following my B.Sc. Three months of sustained preparation
+    helped me secure AIR 219 in 2021 and gain admission to IIT
+    Guwahati, where I completed my M.Sc. An opportunity at a Big Four
+    firm then led me into IT, and I now work as a Consultant at
+    Deloitte USI.
+  </p>
+
+  <p>
+    <strong>Advice for students:</strong> Do not let self-doubt,
+    laziness, or the thought “I will do it later” hold you back.
+    Begin today, stay consistent, and remember that small, steady
+    steps can take you to greater heights.
+  </p>
+</details>
+
+<details>
   <summary><strong>Mallappa Mellikeri</strong></summary>
 
   <p>
