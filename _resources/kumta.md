@@ -8,6 +8,8 @@ order: 5
 excerpt: "Mathematics question banks, laboratory manuals and supporting learning materials prepared by KUMTA."
 ---
 
+<div markdown="1" style="text-align: justify;">
+  
 This page is dedicated to mathematics teaching and learning materials prepared by the **Karnatak University Mathematics Teachers Association (KUMTA)**. Question banks, laboratory manuals and related resources will be shared here to support classroom learning, independent study and practical work.
 
 ## Question Banks
@@ -48,9 +50,7 @@ Question banks provide opportunities to practise concepts, strengthen problem-so
 ## Laboratory Manuals
 
 Laboratory manuals can help students connect mathematical ideas with computational practice. For each manual, check the course requirements and any software instructions provided in the document.
-
-### Acknowledgement
-
+#### Acknowledgement
 Credit for materials shared here belongs to KUMTA and the respective authors, editors and contributors named in each document. Please retain these acknowledgements and follow any usage conditions stated in the materials.
 
 ### R-NEP Laboratory Manuals
