@@ -7,6 +7,7 @@ author_profile: true
 order: 6
 excerpt: "Explore CUET-PG courses after B.Sc. Mathematics: mathematics, statistics, computing, economics, management and other options, with eligibility checks, test-paper guidance and official resources."
 last_modified_at: 2026-09-23
+classes: resource-page
 ---
 
 <div markdown="1" style="text-align: justify;">
