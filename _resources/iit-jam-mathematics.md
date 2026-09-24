@@ -57,7 +57,10 @@ Click a name to read the story.
   <p>
     <strong>Achievement:</strong> Secured All-India rank 219 in IIT JAM
     2021, completed M.Sc. at IIT Guwahati, and currently works as a
-    Consultant at Deloitte USI, Hyderabad, in AI and Data Engineering.
+    Consultant at Deloitte USI, Hyderabad, in AI and Data Engineering. To visit his profile,
+    <a href="https://www.linkedin.com/in/akshayk29">
+      Click here.
+    </a>
   </p>
 
   <p>
