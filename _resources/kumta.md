@@ -44,7 +44,11 @@ Question banks provide opportunities to practise concepts, strengthen problem-so
 
 [Back to Resources]({{ '/resources/' | relative_url }})
 
+#### Note:
 
+The following resource of **GFGC, Dharwad** provides previous years question papers of R-NEP, NEP, CBCS & Old syllabus, you need to login through google account to access it.
+
+[View or download the PDF — Expert Advice by Dr. Ashoka K.]({{ '/files/resources/JAM/iit-jam-expert-advice-ashoka-k.pdf' | relative_url }})
 
 ## Laboratory Manuals
 
