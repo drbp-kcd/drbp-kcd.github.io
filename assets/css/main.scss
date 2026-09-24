@@ -37,14 +37,6 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
-/* Justify summaries on collection listing pages */
-.archive__item-excerpt,
-.archive__item-excerpt p {
-  text-align: justify !important;
-}
-
-/* Justify paragraphs and lists inside individual pages */
-.page__content p,
-.page__content li {
-  text-align: justify !important;
+.archive__item-excerpt {
+  text-align: justify; !important;
 }
