@@ -5,8 +5,7 @@ layout: single
 permalink: /resources/iit-jam-mathematics/
 author_profile: true
 order: 1
-excerpt: Syllabus information, preparation materials, previous question papers and
-  practice resources.
+excerpt: Syllabus information, preparation materials, previous question papers and practice resources.
 ---
 
 ## IIT JAM Mathematics: A Path to Higher Studies
