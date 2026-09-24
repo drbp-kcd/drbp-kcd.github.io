@@ -9,6 +9,8 @@ excerpt: "Explore mathematics, statistics, computing, data analytics, economics,
 last_modified_at: 2026-09-23
 ---
 
+<div markdown="1" style="text-align: justify;">
+  
 A **B.Sc. with Mathematics** can lead to several fields of further study: mathematics, statistics, computing, data analytics, economics, management, education and more. This guide helps you explore courses at **state universities and their recognised affiliated colleges**, match them to your interests and check the qualifications required.
 
 **A course listed here is an option to investigate, not an assurance of eligibility.** Your exact degree, marks and subjects matter. A B.Sc. with Mathematics and Statistics may open different options from Mathematics with Physics or Computer Science. Some professional routes below, such as B.Ed., are degrees taken after graduation rather than postgraduate degrees.
@@ -151,8 +153,6 @@ For each admission cycle, locate:
 6. Fee-payment instructions and later vacancy rounds.
 
 **Check the location attached to each seat.** A university department, a PG centre and an affiliated college may have different facilities, fees and application arrangements.
-
-Related material on this website: [Karnatak University resources]({{ '/resources/karnatak-university/' | relative_url }}) and [KUMTA materials]({{ '/resources/kumta/' | relative_url }}).
 
 <h2 id="well-known-universities">Selected Well-Known State Universities Across India</h2>
 
@@ -368,14 +368,11 @@ Your mathematical training develops habits of reasoning and problem-solving that
 
 - [IIT JAM Mathematics]({{ '/resources/iit-jam-mathematics/' | relative_url }})
 - [CUET-PG Mathematics]({{ '/resources/cuet-pg-mathematics/' | relative_url }})
-- [MTTS Program]({{ '/resources/mtts-program/' | relative_url }})
-- [Karnatak University]({{ '/resources/karnatak-university/' | relative_url }})
-- [KUMTA]({{ '/resources/kumta/' | relative_url }})
 
 ## Sources and Updates
 
 Institutional information and paper links come from the official university and examination portals linked beside the relevant entries. The study plan, comparison checklist and preparation suggestions are editorial guidance. This selected directory does not establish eligibility or replace a prospectus.
 
-**Reviewed on 23 September 2026.** Confirm the latest admission notification, amendments and deadlines directly with the institution. Older papers and notices remain useful for preparation but are not current admission rules.
+**As on 23 September 2026.** Confirm the latest admission notification, amendments and deadlines directly with the institution. Older papers and notices remain useful for preparation but are not current admission rules.
 
 [Back to Resources]({{ '/resources/' | relative_url }})
