@@ -9,6 +9,8 @@ excerpt: "Explore CUET-PG courses after B.Sc. Mathematics: mathematics, statisti
 last_modified_at: 2026-09-23
 ---
 
+<div markdown="1" style="text-align: justify;">
+  
 **Common University Entrance Test: Explore Your Options After B.Sc. Mathematics**
 
 A B.Sc. Mathematics qualification can support applications to several fields of further study. Depending on the university and your undergraduate subjects, these may include mathematics, statistics, operational research, computer applications, economics and other programmes.
