@@ -94,46 +94,7 @@ semester. Select papers that match your prescribed syllabus.
 [Back to Resources]({{ '/resources/' | relative_url }})
 
 
-### NEP Question Papers
-
-#### B.Sc. I Semester
-
-<!--
-- [Course title — Month Year (PDF)]({{ '/files/resources/kud/question-papers/nep/semester-1/course-name-year.pdf' | relative_url }})
--->
-
-#### B.Sc. II Semester
-
-<!--
-- [Course title — Month Year (PDF)]({{ '/files/resources/kud/question-papers/nep/semester-2/course-name-year.pdf' | relative_url }})
--->
-
-#### B.Sc. III Semester
-
-<!--
-- [Course title — Month Year (PDF)]({{ '/files/resources/kud/question-papers/nep/semester-3/course-name-year.pdf' | relative_url }})
--->
-
-#### B.Sc. IV Semester
-
-<!--
-- [Course title — Month Year (PDF)]({{ '/files/resources/kud/question-papers/nep/semester-4/course-name-year.pdf' | relative_url }})
--->
-
-#### B.Sc. V Semester
-
-<!--
-- [Course title — Month Year (PDF)]({{ '/files/resources/kud/question-papers/nep/semester-5/course-name-year.pdf' | relative_url }})
--->
-
-#### B.Sc. VI Semester
-
-<!--
-- [Course title — Month Year (PDF)]({{ '/files/resources/kud/question-papers/nep/semester-6/course-name-year.pdf' | relative_url }})
--->
-
-[Back to Resources]({{ '/resources/' | relative_url }})
-
+[2026 campus programme directory](https://campus.unipune.ac.in/CCEP/CampusAdmission/index.html)
 
 
 ## How to Use These Materials
