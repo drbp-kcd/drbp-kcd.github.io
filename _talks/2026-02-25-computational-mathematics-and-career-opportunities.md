@@ -11,8 +11,9 @@ event_dates: February 25, 2026
 event_end_date: 2026-02-25
 event_scope: Regional
 date_basis: event date
-classes: talk-page
 ---
+
+<div markdown="1" style="text-align: justify;">
 
 I delivered a talk on **Computational Mathematics and Career Opportunities** as part of **One Day Special Lecture Programme**.
 
