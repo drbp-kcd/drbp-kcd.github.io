@@ -11,9 +11,10 @@ event_dates: March 28-30, 2023
 event_end_date: 2023-03-30
 event_scope: International
 date_basis: event start date
-classes: talk-page
 ---
 
+<div markdown="1" style="text-align: justify;">
+  
 I delivered a talk on **On bounds for difference of energies of a graph and its complement** as part of **Online Workshop on Graph Spectra, Combinatorial Graph Theory, Group Theory and Nano-Molecular-Electronic-Devices (GCGN 2023)**.
 
 **Organized by:** Department of Mathematics, University of Malta, Msida MSD 2080, Malta  
