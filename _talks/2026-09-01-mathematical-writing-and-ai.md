@@ -11,9 +11,10 @@ event_dates: September 01-05, 2026
 event_end_date: 2026-09-05
 event_scope: Regional
 date_basis: event start date
-classes: talk-page
 ---
 
+<div markdown="1" style="text-align: justify;">
+  
 I delivered a talk on **Mathematical Writing and AI** as part of **5-DAY FACULTY DEVELOPMENT PROGRAM ON Emerging Mathematical Perspective in Artificial Intelligence, Machine Learning and Data Science**.
 
 **Organized by:** KLE Technological University, M. S. Sheshgiri campus, Belagavi  
