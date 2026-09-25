@@ -11,8 +11,9 @@ event_dates: March 25-27, 2026
 event_end_date: 2026-03-27
 event_scope: Regional
 date_basis: event start date
-classes: talk-page
 ---
+
+<div markdown="1" style="text-align: justify;">
 
 I delivered a talk on **Quotient Matrices and Energy Invariants of Graphs** as part of **Faculty Development Program on Materials Characterization and Computation Methods**.
 
