@@ -1,6 +1,7 @@
 ---
 title: "Quotient Matrices and Energy Invariants of Graphs"
 collection: talks
+classes: talk-page
 type: FDP Talk
 permalink: /talks/2026-03-25-quotient-matrices-and-energy-invariants-of-graphs
 venue: "Department of Mathematics, MVJ College of Engineering"
@@ -14,7 +15,6 @@ date_basis: event start date
 ---
 
 <div markdown="1" style="text-align: justify;">
-
 I delivered a talk on **Quotient Matrices and Energy Invariants of Graphs** as part of the **Faculty Development Program on Materials Characterization and Computation Methods**.
 
 **Organized by:** Department of Mathematics, MVJ College of Engineering, Bangalore  
