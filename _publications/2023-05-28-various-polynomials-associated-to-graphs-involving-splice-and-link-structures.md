@@ -9,6 +9,7 @@ paperurl: https://annalsmcs.org/index.php/amcs/article/view/174
 citation: H. S. Ramane, D. Patil, B. Parvathalu, Ashoka K. (2023). &quot;Various polynomials associated to graphs involving splice and link structures&quot; <i>Annals of Mathematics and Computer Science</i>, 15, pp. 56-69.
 publication_date_display: 2023-May-28
 date_precision: day
+classes: publication-page
 ---
 
 **Authors:** H. S. Ramane, D. Patil, B. Parvathalu, Ashoka K
