@@ -11,6 +11,7 @@ event_dates: March 25, 2019
 event_end_date: 2019-03-25
 event_scope: Regional
 date_basis: event date
+classes: talk-page
 ---
 
 I delivered a talk on **Learn Mathematics Through Little Geometry** as part of **One Day Special Lecture Programme on Science day**.
