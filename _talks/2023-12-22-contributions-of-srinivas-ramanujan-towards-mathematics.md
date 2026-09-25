@@ -11,9 +11,10 @@ event_dates: December 22, 2023
 event_end_date: 2023-12-22
 event_scope: Regional
 date_basis: event date
-classes: talk-page
 ---
 
+<div markdown="1" style="text-align: justify;">
+  
 I delivered a talk on **Contributions of Srinivas Ramanujan towards Mathematics** as part of **National Mathematics Day**.
 
 **Organized by:** Department of Mathematics, JSS Banashankar Arts, Commerce and Shantikumar Gubbi Science College, Dharwad  
