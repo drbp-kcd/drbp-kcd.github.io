@@ -51,7 +51,7 @@ Click a name to read the story.
 </p>
 
 <details>
-  <summary><strong>Akshay V Kulkarni, KCD Student</strong></summary>
+  <summary><strong>Akshay V Kulkarni, KCD Student, Consultant at Deloitte USI, Hyderabad, in AI and Data Engineering</strong></summary>
 
   <p>
     <strong>Achievement:</strong> Secured All-India rank 219 in IIT JAM
@@ -89,7 +89,7 @@ Click a name to read the story.
 </details>
 
 <details>
-  <summary><strong>Mallappa Mellikeri</strong></summary>
+  <summary><strong>Mallappa Mellikeri, Assistant Professor at VCE, Mysuru</strong></summary>
 
   <p>
     <strong>Achievement:</strong> Qualified CSIR NET-JRF three
