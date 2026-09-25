@@ -9,6 +9,7 @@ paperurl: https://doi.org/10.2174/0115701794330372241114102237
 citation: Ashoka K, B. Parvathalu, S. Arumugam. (2025). &quot;Harary Spectra and Energy of Certain Classes of Graphs&quot; <i>Current Organic Synthesis</i>, 22, pp. 791-798.
 publication_date_display: February 04, 2025
 date_precision: day
+classes: publication-page
 ---
 
 **Authors:** Ashoka K, B. Parvathalu, S. Arumugam
