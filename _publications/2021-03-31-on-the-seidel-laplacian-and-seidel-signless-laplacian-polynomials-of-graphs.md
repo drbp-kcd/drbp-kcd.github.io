@@ -9,6 +9,7 @@ paperurl: https://doi.org/10.5666/KMJ.2021.61.1.155
 citation: H. S. Ramane, Ashoka K, D. Patil, B. Parvathalu. (2021). &quot;On the Seidel Laplacian and Seidel Signless Laplacian Polynomials of Graphs&quot; <i>Kyungpook Mathematical Journal</i>, 61, pp. 155-168.
 publication_date_display: March 31, 2021
 date_precision: day
+classes: publication-page
 ---
 
 **Authors:** H. S. Ramane, Ashoka K, D. Patil, B. Parvathalu
