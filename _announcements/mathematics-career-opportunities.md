@@ -19,7 +19,7 @@ encouragement as you plan your own path. Click a name to read the story.
 </p>
 
 <details>
-  <summary><strong>Shankar Shingarapu</strong></summary>
+  <summary><strong>Shankar Shingarapu, Principal Software Engineer at Broadcom, Hyderabad</strong></summary>
 
   <p>
     <strong>Achievement:</strong> From a government education background
