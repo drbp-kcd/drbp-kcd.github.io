@@ -11,6 +11,7 @@ event_dates: July 31, 2025
 event_end_date: 2025-07-31
 event_scope: Regional
 date_basis: event date
+classes: talk-page
 ---
 
 I delivered a talk on **Geometry and Computational Thinking in Mathematics** as part of **One Day Special Lecture Programme**.
