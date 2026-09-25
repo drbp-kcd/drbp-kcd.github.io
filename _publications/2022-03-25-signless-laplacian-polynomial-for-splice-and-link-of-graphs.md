@@ -9,6 +9,7 @@ paperurl: http://jaem.isikun.edu.tr/
 citation: H. S. Ramane, D. Patil, B. Parvathalu, Ashoka K. (2022). &quot;Signless Laplacian polynomial for splice and link of graphs&quot; <i>Turkic World Mathematical Society Journal of Applied and Engineering Mathematics</i>, 13(4), pp. 1526-1536.
 publication_date_display: March 25, 2022
 date_precision: day
+classes: publication-page
 ---
 
 **Authors:** H. S. Ramane, D. Patil, B. Parvathalu, Ashoka K
