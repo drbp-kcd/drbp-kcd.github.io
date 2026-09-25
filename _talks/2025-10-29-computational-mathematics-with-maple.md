@@ -11,9 +11,10 @@ event_dates: October 29-31, 2025
 event_end_date: 2025-10-31
 event_scope: National
 date_basis: event start date
-classes: talk-page
 ---
 
+<div markdown="1" style="text-align: justify;">
+  
 I delivered a talk on **Computational Mathematics with Maple** as part of **Prof. R. Balakrishnan Endowment Lecture and the Three Days National Level Mathematics Faculty Development Program on MAPLE WITH COMPUTATIONAL MATHEMATICS**.
 
 **Organized by:** Department of Mathematics, Karnatak University, Dharwad  
