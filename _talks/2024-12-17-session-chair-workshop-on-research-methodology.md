@@ -11,9 +11,10 @@ event_dates: December 17, 2024
 event_end_date: 2024-12-17
 event_scope: Regional
 date_basis: event date
-classes: talk-page
 ---
 
+<div markdown="1" style="text-align: justify;">
+  
 I chaired a session at **Workshop on Research Methodology**.
 
 **Organized by:** IQAC & Science Association, Karnatak Science College, Dharwad  
