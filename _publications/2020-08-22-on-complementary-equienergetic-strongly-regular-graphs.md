@@ -9,6 +9,7 @@ paperurl: https://www.dmlett.com/journal-archive/v4/
 citation: H. S. Ramane, Ashoka K, B. Parvathalu, D. Patil, Ivan Gutman. (2020). &quot;On complementary equienergetic strongly regular graphs&quot; <i>Discrete Mathematics Letters</i>, 4, pp. 50–55.
 publication_date_display: August 22, 2020
 date_precision: day
+classes: publication-page
 ---
 
 **Authors:** H. S. Ramane, Ashoka K, B. Parvathalu, D. Patil, Ivan Gutman
