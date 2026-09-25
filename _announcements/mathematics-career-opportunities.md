@@ -62,7 +62,7 @@ encouragement as you plan your own path. Click a name to read the story.
 </details>
 
 <details>
-  <summary><strong>Raja Shekar Badri</strong></summary>
+  <summary><strong>Raja Shekar Badri, Associate Consultant at TCS, Hyderabad/strong></summary>
 
   <p>
     <strong>Achievement:</strong> Secured All-India rank 49 in GATE
