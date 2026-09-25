@@ -37,6 +37,13 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
-.archive__item-excerpt {
+/* Justify all excerpts without changing their font size */
+.archive__item-excerpt,
+.archive__item-excerpt p {
   text-align: justify;
+  text-align-last: auto;
+}
+
+.archive__item-excerpt p {
+  font-size: inherit;
 }
