@@ -9,6 +9,7 @@ paperurl: https://doi.org/10.1007/s13226-022-00355-1
 citation: H. S. Ramane, B. Parvathalu, Ashoka K, S. Pirzada. (2022). &quot;On families of graphs which are both adjacency equienergetic and distance equienergetic&quot; <i>Indian Journal of Pure and Applied Mathematics</i>, 55, pp. 198–209.
 publication_date_display: December 2022
 date_precision: month
+classes: publication-page
 ---
 
 **Authors:** H. S. Ramane, B. Parvathalu, Ashoka K, S. Pirzada
