@@ -89,7 +89,7 @@ Click a name to read the story.
 </details>
 
 <details>
-  <summary><strong>Mallappa Mellikeri, Assistant Professor at VCE</strong></summary>
+  <summary><strong>Mallappa Mellikeri, Assistant Professor at VCE-KUD Student</strong></summary>
 
   <p>
     <strong>Achievement:</strong> Qualified CSIR NET-JRF three
