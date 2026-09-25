@@ -9,6 +9,7 @@ paperurl: http://mathematical-forum.org/adjacency-and-seidel-polynomial-of-splic
 citation: H. S. Ramane, Ashoka K, B. Parvathalu, D. Patil. (2020). &quot;Adjacency and Seidel polynomial of splice and link of certain graphs&quot; <i>Mathematical Forum</i>, 28(1), pp. 68-86.
 publication_date_display: December 2020
 date_precision: month
+classes: publication-page
 ---
 
 **Authors:** H. S. Ramane, Ashoka K, B. Parvathalu, D. Patil
