@@ -61,3 +61,9 @@
   text-align: justify;
   text-align-last: auto;
 }
+
+/* Justify paragraphs inside individual publication pages */
+.publication-page .page__content p {
+  text-align: justify;
+  text-align-last: auto;
+}
