@@ -9,6 +9,7 @@ paperurl: https://pjm.ppu.edu/paper/2288-iterated-line-graphs-only-negative-eige
 citation: H. S. Ramane, B. Parvathalu, D. Patil, Ashoka K. (2025). &quot;Iterated Line Graphs With Only Negative Eigenvalues −2, Their Complements And Energy&quot; <i>Palestine Journal of Mathematics</i>, 14.
 publication_date_display: November 01, 2025
 date_precision: day
+classes: publication-page
 ---
 
 **Authors:** H. S. Ramane, B. Parvathalu, D. Patil, Ashoka K
