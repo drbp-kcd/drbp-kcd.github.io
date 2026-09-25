@@ -9,6 +9,7 @@ paperurl: https://doi.org/10.1007/s41478-022-00391-4
 citation: H. S. Ramane, B. Parvathalu, Ashoka K. (2022). &quot;Energy of strong double graphs&quot; <i>The Journal of Analysis</i>, 30, pp. 1033-1043.
 publication_date_display: February 8, 2022
 date_precision: day
+classes: publication-page
 ---
 
 **Authors:** H. S. Ramane, B. Parvathalu, Ashoka K
