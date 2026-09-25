@@ -11,6 +11,7 @@ event_dates: June 25, 2024
 event_end_date: 2024-06-25
 event_scope: Regional
 date_basis: event date
+classes: talk-page
 ---
 
 I delivered a talk on **Spectra of quotient matrices of graphs** as part of **Study Circle Activities, Dept. of Mathematics, KUD**.
