@@ -9,6 +9,7 @@ paperurl: https://doi.org/10.22034/as.2025.22111.1740
 citation: B. Parvathalu, H. S. Ramane. (2025). &quot;On diameter and distance energy of complement of regular graphs&quot; <i>Algebraic structures and their applications</i>, 13(1), pp. 49-55.
 publication_date_display: August 28, 2025
 date_precision: day
+classes: publication-page
 ---
 
 **Authors:** B. Parvathalu, H. S. Ramane
