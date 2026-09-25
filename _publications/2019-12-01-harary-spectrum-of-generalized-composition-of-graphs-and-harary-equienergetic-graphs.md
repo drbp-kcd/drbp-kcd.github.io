@@ -9,6 +9,7 @@ paperurl: https://doi.org/10.22124/jart.2020.14263.1161
 citation: H. S. Ramane, D. Patil, Ashoka K, B. Parvathalu. (2019). &quot;Harary spectrum of generalized composition of graphs and Harary equienergetic graphs&quot; <i>Journal of Algebra and Related Topics</i>, 7 (2), pp. 31-45.
 publication_date_display: December 2019
 date_precision: month
+classes: publication-page
 ---
 
 **Authors:** H. S. Ramane, D. Patil, Ashoka K, B. Parvathalu
