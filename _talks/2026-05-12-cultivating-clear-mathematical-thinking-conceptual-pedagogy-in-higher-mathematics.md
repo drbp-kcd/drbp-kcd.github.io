@@ -11,6 +11,7 @@ event_dates: May 12, 2026
 event_end_date: 2026-05-12
 event_scope: Regional
 date_basis: event date
+classes: talk-page
 ---
 
 I delivered a talk on **Cultivating Clear Mathematical Thinking: Conceptual Pedagogy in Higher Mathematics** as part of **Guru Vikas-Science Faculty Development Program (FDP) on Empowering Teachers, Transforming Education**.
