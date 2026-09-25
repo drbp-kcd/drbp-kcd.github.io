@@ -9,6 +9,7 @@ paperurl: https://doi.org/10.1016/j.exco.2023.100100
 citation: 'H. S. Ramane, B. Parvathalu, Ashoka K. (2023). &quot;An upper bound for difference of energies of a graph and its complement&quot; <i>Examples and Counterexamples</i>, 3, ID: 100100.'
 publication_date_display: January 21, 2023
 date_precision: day
+classes: publication-page
 ---
 
 **Authors:** H. S. Ramane, B. Parvathalu, Ashoka K
