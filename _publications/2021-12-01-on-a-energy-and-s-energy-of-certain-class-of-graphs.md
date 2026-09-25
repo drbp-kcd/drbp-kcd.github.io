@@ -9,6 +9,7 @@ paperurl: https://doi.org/10.2478/ausi-2021-0009
 citation: H. S. Ramane, Ashoka K, B. Parvathalu, D. Patil. (2021). &quot;On A-energy and S-energy of certain class of graphs&quot; <i>Acta Universitatis Sapientiae Informatica</i>, 13(2), pp. 195–219.
 publication_date_display: December 2021
 date_precision: month
+classes: publication-page
 ---
 
 **Authors:** H. S. Ramane, Ashoka K, B. Parvathalu, D. Patil
