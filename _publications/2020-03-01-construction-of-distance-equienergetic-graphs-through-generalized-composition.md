@@ -9,6 +9,7 @@ paperurl: https://www.journal.fairpartners.ro/volume-132020-no-1-_28.html
 citation: H. S. Ramane, D. Patil, B. Parvathalu, Ashoka K. (2020). &quot;Construction of distance equienergetic graphs through generalized composition&quot; <i>Journal of Advanced Mathematical Studies</i>, 13 (1), pp. 35-41.
 publication_date_display: March 2020
 date_precision: month
+classes: publication-page
 ---
 
 **Authors:** H. S. Ramane, D. Patil, B. Parvathalu, Ashoka K
