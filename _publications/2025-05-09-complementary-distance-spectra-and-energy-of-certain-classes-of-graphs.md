@@ -9,6 +9,7 @@ paperurl: https://doi.org/10.1007/s44427-025-00001-8
 citation: Ashoka K, B. Parvathalu, Jovita J. Rodrigues. (2025). &quot;Complementary distance spectra and energy of certain classes of graphs&quot; <i>Acta Universitatis Sapientiae Informatica</i>, 17, Article Number 2.
 publication_date_display: May 09, 2025
 date_precision: day
+classes: publication-page
 ---
 
 **Authors:** Ashoka K, B. Parvathalu, Jovita J. Rodrigues
