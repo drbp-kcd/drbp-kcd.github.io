@@ -11,6 +11,7 @@ event_dates: November 23-24, 2024
 event_end_date: 2024-11-24
 event_scope: National
 date_basis: event start date
+classes: talk-page
 ---
 
 I delivered a talk on **Computational Mathematics with Scilab–Number Theory** as part of **Faculty Development Program on SciLab With Computational Mathematics**.
