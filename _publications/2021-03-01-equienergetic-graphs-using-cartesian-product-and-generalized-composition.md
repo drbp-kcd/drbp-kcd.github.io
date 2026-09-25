@@ -9,6 +9,7 @@ paperurl: https://dx.doi.org/10.5644/SJM
 citation: H. S. Ramane, D. Patil, Ashoka K, B. Parvathalu. (2021). &quot;Equienergetic Graphs using Cartesian product and generalized composition&quot; <i>Sarajevo Journal of Mathematics</i>, 17 (30), pp. 7-21.
 publication_date_display: March 2021
 date_precision: month
+classes: publication-page
 ---
 
 **Authors:** H. S. Ramane, D. Patil, Ashoka K, B. Parvathalu
