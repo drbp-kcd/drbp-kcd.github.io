@@ -11,9 +11,10 @@ event_dates: August 02-04, 2024
 event_end_date: 2024-08-04
 event_scope: International
 date_basis: event start date
-classes: talk-page
 ---
 
+<div markdown="1" style="text-align: justify;">
+  
 I chaired a session at **International Conference on Mathematical Analysis & Its Applications (ICMAA-2024)**.
 
 **Organized by:** Department of Mathematics, Karnatak University, Dharwad  
