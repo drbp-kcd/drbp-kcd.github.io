@@ -9,6 +9,7 @@ paperurl: https://doi.org/10.1007/s40819-017-0367-8
 citation: B. Parvathalu, P. Sam Johnson. (2017). &quot;Construction of Mercedes–Benz Frame in R^n&quot; <i>International Journal of Applied and Computational Mathematics</i>, 3 (Suppl 1), pp. 511–519.
 publication_date_display: May 23, 2017
 date_precision: day
+classes: publication-page
 ---
 
 **Authors:** B. Parvathalu, P. Sam Johnson
