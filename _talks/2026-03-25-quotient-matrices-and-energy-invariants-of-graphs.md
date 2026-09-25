@@ -13,6 +13,8 @@ event_scope: Regional
 date_basis: event start date
 ---
 
+<div markdown="1" style="text-align: justify;">
+
 I delivered a talk on **Quotient Matrices and Energy Invariants of Graphs** as part of the **Faculty Development Program on Materials Characterization and Computation Methods**.
 
 **Organized by:** Department of Mathematics, MVJ College of Engineering, Bangalore  
