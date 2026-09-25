@@ -9,6 +9,7 @@ paperurl: https://jaem.isikun.edu.tr/web/images/articles/vol.15.no.9/11.pdf
 citation: K. G. Mirajkar, R. S. Naikar, B. Parvathalu. (2025). &quot;Degree sum spectra and energy of certain families of graphs&quot; <i>Turkic World Mathematical Society Journal of Applied and Engineering Mathematics</i>, 15, pp. 2284-2296.
 publication_date_display: September 01, 2025
 date_precision: day
+classes: publication-page
 ---
 
 **Authors:** K. G. Mirajkar, R. S. Naikar, B. Parvathalu
