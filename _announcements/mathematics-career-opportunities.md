@@ -19,7 +19,7 @@ encouragement as you plan your own path. Click a name to read the story.
 </p>
 
 <details>
-  <summary><strong>Shankar Shingarapu, Principal Software Engineer at Broadcom, Hyderabad</strong></summary>
+  <summary><strong>Shankar Shingarapu, Principal Software Engineer at Broadcom</strong></summary>
 
   <p>
     <strong>Achievement:</strong> From a government education background
@@ -62,7 +62,7 @@ encouragement as you plan your own path. Click a name to read the story.
 </details>
 
 <details>
-  <summary><strong>Raja Shekar Badri, Associate Consultant at TCS, Hyderabad/strong></summary>
+  <summary><strong>Raja Shekar Badri, Associate Consultant at TCS</strong></summary>
 
   <p>
     <strong>Achievement:</strong> Secured All-India rank 49 in GATE
