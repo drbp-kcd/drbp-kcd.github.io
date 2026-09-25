@@ -9,6 +9,7 @@ paperurl: https://doi.org/10.1007/s44427-025-00009-0
 citation: B. Parvathalu, K. G. Mirajkar, S. R. Konnur, R. S. Naikar. (2025). &quot;Distance Energy of Indu-Bala Product of Graphs&quot; <i>Acta Universitatis Sapientiae Informatica</i>, 17, Article Number 9.
 publication_date_display: Aug 21, 2025
 date_precision: day
+classes: publication-page
 ---
 
 **Authors:** B. Parvathalu, K. G. Mirajkar, S. R. Konnur, R. S. Naikar
