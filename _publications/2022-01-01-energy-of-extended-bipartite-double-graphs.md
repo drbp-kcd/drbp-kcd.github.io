@@ -9,6 +9,7 @@ paperurl: https://doi.org/10.46793/match.87-3.653R
 citation: H. S. Ramane, B. Parvathalu, Ashoka K. (2022). &quot;Energy of Extended Bipartite Double Graphs&quot; <i>MATCH Communications in Mathematical and in Computer Chemistry</i>, 87 (3), pp. 653-660.
 publication_date_display: January 2022
 date_precision: month
+classes: publication-page
 ---
 
 **Authors:** H. S. Ramane, B. Parvathalu, Ashoka K
