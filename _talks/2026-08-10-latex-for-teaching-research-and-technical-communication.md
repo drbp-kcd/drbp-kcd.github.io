@@ -12,9 +12,10 @@ event_end_date: 2026-08-14
 event_scope: Regional
 date_basis: event start date
 contribution_days: 2
-classes: talk-page
 ---
 
+<div markdown="1" style="text-align: justify;">
+  
 I trained faculty for two days on **LaTeX for Teaching, Research and Technical Communication** as part of **Faculty Development Program (FDP) on Engineering Mathematics in the Digital Era: Python-Based Computing and LaTeX Documentation**.
 
 **Organized by:** Department of Mathematics, Rao Bahadur Y. Mahabaleshwarappa Engineering College, Ballari  
