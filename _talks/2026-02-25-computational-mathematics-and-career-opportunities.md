@@ -13,6 +13,8 @@ event_scope: Regional
 date_basis: event date
 ---
 
+<div markdown="1" style="text-align: justify;">
+  
 I delivered a talk on **Computational Mathematics and Career Opportunities** as part of the **One Day Special Lecture Programme**.
 
 **Organized by:** IQAC & Department of Mathematics, SKNG Government First Grade College, Gangavathi  
