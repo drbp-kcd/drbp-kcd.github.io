@@ -11,6 +11,7 @@ event_dates: August 27, 2026
 event_end_date: 2026-08-27
 event_scope: Regional
 date_basis: event date
+classes: talk-page
 ---
 
 I delivered a talk on **Mathematical Computing Using Python** as part of **One Day Workshop on Mathematical Computing Using Python**.
