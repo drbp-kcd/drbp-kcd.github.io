@@ -8,6 +8,8 @@ order: 2
 excerpt: Online learning opportunities in mathematics, programming and mathematical computing.
 ---
 
+<div markdown="1" style="text-align: justify;">
+  
 ## Learn Mathematics Beyond the Classroom
 
 Mathematics becomes more rewarding when we explore ideas,
