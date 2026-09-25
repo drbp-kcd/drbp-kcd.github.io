@@ -11,9 +11,10 @@ event_dates: July 25, 2026
 event_end_date: 2026-07-25
 event_scope: Regional
 date_basis: event date
-classes: talk-page
 ---
 
+<div markdown="1" style="text-align: justify;">
+  
 I delivered a talk on **Applications of MATLAB in Mathematics and Research** as part of **Inauguration of Certificate Course on MATLAB**.
 
 **Organized by:** IQAC & Department of Mathematics, SVM Arts, Science and Commerce College, Ilkal  
