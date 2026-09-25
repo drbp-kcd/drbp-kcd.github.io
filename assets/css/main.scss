@@ -55,3 +55,9 @@
 .archive__item-excerpt p {
   font-size: inherit;
 }
+
+/* Justify publication citations */
+.publication-citation {
+  text-align: justify;
+  text-align-last: auto;
+}
