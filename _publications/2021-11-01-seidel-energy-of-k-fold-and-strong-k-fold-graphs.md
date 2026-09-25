@@ -9,6 +9,7 @@ paperurl: http://cccs.sgh.ac.ir/ShowArticle?ArticleID=20
 citation: H. S. Ramane, B. Parvathalu, Ashoka K. (2021). &quot;Seidel Energy of k-fold and Strong k-fold Graphs&quot; <i>Communications in Combinatorics, Cryptography &amp; Computer Science (CCCS)</i>, 1, pp. 152–159.
 publication_date_display: November 2021
 date_precision: month
+classes: publication-page
 ---
 
 **Authors:** H. S. Ramane, B. Parvathalu, Ashoka K
