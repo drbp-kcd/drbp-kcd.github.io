@@ -9,6 +9,7 @@ paperurl: https://doi.org/10.5269/bspm.51691
 citation: H. S. Ramane, D. Patil, Ashoka K, B. Parvathalu. (2021). &quot;On Spectral Polynomial of Splices and Links of Graphs&quot; <i>Boletim da Sociedade Paranaense de Matematica (Bulletin of Parana´s Mathematical Society)</i>, 41, pp. 1-8.
 publication_date_display: June 10, 2021
 date_precision: day
+classes: publication-page
 ---
 
 **Authors:** H. S. Ramane, D. Patil, Ashoka K, B. Parvathalu
