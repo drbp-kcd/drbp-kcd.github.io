@@ -34,7 +34,7 @@ including explanations, worked examples and exercises.
 Classroom notes covering the topics discussed in class,
 including explanations, worked examples and exercises.
 
-[Download Unit IV Notes (PDF)]({{ '/files/teaching/algebra-i-calculus-i/unit-iv-notes.pdf' | relative_url }}){: .btn .btn--primary}
+[Not Yet Uploaded Unit IV Notes (PDF)]({{ '/files/teaching/algebra-i-calculus-i/unit-iv-notes.pdf' | relative_url }}){: .btn .btn--primary}
 
 [Back to Teaching]({{ '/teaching/' | relative_url }})
 
