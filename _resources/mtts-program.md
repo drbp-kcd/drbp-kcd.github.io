@@ -88,13 +88,6 @@ Click a name to read the experience.
     OFCM gave me a sense of community and a more confident,
     reflective approach to learning.
   </p>
-
-  <p>
-    <strong>Advice for students:</strong> Ask questions, share your
-    ideas, and embrace mistakes as part of learning. Meaningful
-    discussions and honest self-assessment can deepen your
-    understanding of mathematics.
-  </p>
 </details>
 
 </div>
