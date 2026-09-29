@@ -89,6 +89,49 @@ Click a name to read the story.
 </details>
 
 <details>
+  <summary>
+    <strong>Poornima M. Savadattimath — Gold Medallist and Aspiring Researcher-KCD Student</strong>
+  </summary>
+
+  <p>
+    <strong>Achievement:</strong> Secured AIR 1802 in IIT JAM 2024,
+    earned two gold medals during B.Sc. at Karnatak Science College,
+    Dharwad, and graduated as the university first-rank holder and
+    gold medallist in M.Sc. Data Science from DIAT (DU), Pune.
+    Also qualified for Ph.D. admission through UGC-NET in June 2026.
+  </p>
+
+  <p>
+    I loved mathematics but was unsure about my next step during
+    B.Sc. Dr. Parvathalu Sir recognised my interest and introduced
+    me to IIT JAM. With three months of focused preparation using
+    online resources and no coaching, I qualified for the examination.
+  </p>
+
+  <p>
+    This opened the door to M.Sc. Data Science at DIAT (DU), Pune,
+    where I secured first rank in the university and a gold medal.
+    During my final semester, I was selected by Panasonic Avionics
+    Corporation, Pune, and worked as a Software Engineering Intern
+    for six months.
+  </p>
+
+  <p>
+    My growing interest in research eventually led me to leave
+    the job and pursue a research career. Mathematics continues
+    to guide my journey and inspire my next steps.
+  </p>
+
+  <p>
+    <strong>Advice for students:</strong> Let your passion for
+    mathematics inspire consistent preparation. Focus on understanding
+    concepts rather than memorizing formulas, and make good use of
+    available learning resources. IIT JAM can open doors to many
+    opportunities—stay curious and keep exploring.
+  </p>
+</details>
+
+<details>
   <summary><strong>Mallappa Mellikeri, Assistant Professor at VCE-KUD Student</strong></summary>
 
   <p>
