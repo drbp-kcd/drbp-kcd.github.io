@@ -53,6 +53,50 @@ Click a name to read the experience.
   </p>
 </details>
 
+<details>
+  <summary><strong>Abhinandan Manik Shirmoji, U02AB25S0257 — MTTS Participant, KCD</strong></summary>
+
+  <p>
+    <strong>Experience:</strong> Participated in OFCM 2026, gaining
+    new mathematical perspectives, confidence, and a supportive
+    learning community.
+  </p>
+
+  <p>
+    OFCM 2026 changed the way I think, learn, and approach problems.
+    Each session encouraged us to think alongside the instructor,
+    while connections between real-life situations and mathematical
+    ideas made concepts meaningful and engaging.
+  </p>
+
+  <p>
+    One message stayed with me: “Committing mistakes is our birthright
+    while learning something.” It helped me become comfortable with
+    making mistakes and see them as opportunities to learn.
+  </p>
+
+  <p>
+    Breakout discussions connected me with fellow mathematics
+    enthusiasts and gave me the confidence to share my ideas and
+    problem-solving methods. I was fortunate to receive guidance
+    from four mentors who continue to support me even after the camp.
+  </p>
+
+  <p>
+    The three self-assessments helped me recognise my strengths
+    and areas for improvement. Beyond mathematical knowledge,
+    OFCM gave me a sense of community and a more confident,
+    reflective approach to learning.
+  </p>
+
+  <p>
+    <strong>Advice for students:</strong> Ask questions, share your
+    ideas, and embrace mistakes as part of learning. Meaningful
+    discussions and honest self-assessment can deepen your
+    understanding of mathematics.
+  </p>
+</details>
+
 </div>
 
 ## About MTTS 
