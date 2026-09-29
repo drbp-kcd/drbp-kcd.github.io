@@ -98,7 +98,7 @@ Click a name to read the story.
     earned two gold medals during B.Sc. at Karnatak Science College,
     Dharwad, and graduated as the university first-rank holder and
     gold medallist in M.Sc. Data Science from DIAT (DU), Pune.
-    Also qualified for Ph.D. admission through UGC-NET in June 2026.
+    Also qualified UGC-NET in June 2026.
   </p>
 
   <p>
