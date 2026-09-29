@@ -8,6 +8,53 @@ order: 3
 excerpt: Information and links for the Mathematics Training and Talent Search Program.
 ---
 
+<div markdown="1" style="text-align: justify;">
+
+<h2>KCD Students at MTTS</h2>
+
+<p>
+Discover the experiences of students from Karnatak Science College,
+Dharwad, who participated in the Mathematics Training and Talent Search
+(MTTS) Programme. Their stories show how exploring ideas, asking questions,
+and solving problems together can deepen an interest in mathematics.
+Click a name to read the experience.
+</p>
+
+<details>
+  <summary><strong> Tejaswini Maruti Jeevannavar, U02AB25S0165 — MTTS Participant, KCD</strong></summary>
+
+  <p>
+    <strong>Opportunity:</strong> Selected to participate in the
+    Mathematics Training and Talent Search (MTTS) Programme.
+  </p>
+
+  <p>
+    I learned about MTTS through Dr. Parvathalu Sir, who encouraged
+    and recommended me to apply. His guidance and support gave me
+    the confidence to pursue this opportunity, and I was delighted
+    to be selected.
+  </p>
+
+  <p>
+    MTTS was very different from regular classroom learning. It
+    helped me see mathematics beyond formulas and calculations—as
+    a way of thinking, questioning, and understanding concepts deeply.
+    Instead of simply following a procedure, I learned to ask,
+    “Why are we doing this?”
+  </p>
+
+  <p>
+    The programme strengthened my logical thinking and changed
+    my approach to problem-solving. It gave me fresh perspectives,
+    greater confidence, and a deeper interest in mathematics.
+    I am grateful to Dr. Parvathalu Sir for introducing me to
+    this opportunity and to the entire MTTS community for such
+    a meaningful learning experience.
+  </p>
+</details>
+
+</div>
+
 ## About MTTS 
 
 <div markdown="1" style="text-align: justify;">
