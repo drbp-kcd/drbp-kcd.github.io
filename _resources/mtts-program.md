@@ -57,11 +57,10 @@ Click a name to read the experience.
   <summary><strong>Abhinandan Manik Shirmoji, U02AB25S0257 — MTTS Participant, KCD</strong></summary>
 
   <p>
-    <strong>Experience:</strong> Participated in OFCM 2026, gaining
-    new mathematical perspectives, confidence, and a supportive
-    learning community.
+    <strong>Opportunity:</strong> Selected to participate in the
+    Mathematics Training and Talent Search (MTTS) Programme, OFCM 2026.
   </p>
-
+  
   <p>
     OFCM 2026 changed the way I think, learn, and approach problems.
     Each session encouraged us to think alongside the instructor,
