@@ -25,6 +25,8 @@ The PDF files are updated regularly as the course progresses.
 Classroom notes covering the topics discussed in class,
 including explanations, worked examples and exercises.
 
+[Download Unit II Notes (PDF) as on Oct 06, 2026]({{ '/files/teaching/algebra-i-calculus-i/I-Class-upto-6Oct26.pdf' | relative_url }}){: .btn .btn--primary}
+
 [Download Unit II Notes (PDF) as on Sep 28, 2026]({{ '/files/teaching/algebra-i-calculus-i/I-Class-upto-28Sep26.pdf' | relative_url }}){: .btn .btn--primary}
 
 [Download Unit II Notes (PDF) as on Sep 06, 2026]({{ '/files/teaching/algebra-i-calculus-i/unit-ii-notes.pdf' | relative_url }}){: .btn .btn--primary}
