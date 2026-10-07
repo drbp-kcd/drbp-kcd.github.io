@@ -17,6 +17,58 @@ excerpt: Updates about class schedules, lecture notes, assignments and assessmen
 
 <details>
   <summary>
+    <strong>Updated Class Notes — 06 Oct 2026</strong>
+  </summary>
+
+  <ul>
+    <li><strong>Course:</strong> Algebra–I and Calculus–I</li>
+    <li><strong>Class/Semester:</strong> I Semester</li>
+    <li><strong>Date:</strong> 06 Sep 2026</li>
+  </ul>
+
+  <p>
+    Dear students, the updated class notes are now available.
+    <a href="https://drbp-kcd.github.io/teaching/">
+      Click here to access the notes.
+    </a>
+  </p>
+
+  <p>
+    <strong>Action required:</strong> Please ensure that all the updated
+    notes are written in full in your notebooks before the next class.
+    I will check your notebooks during the next class. Students with
+    incomplete notes will not be permitted to attend the class.
+  </p>
+</details>
+
+<details>
+  <summary>
+    <strong>Updated Class Notes — 28 Sep 2026</strong>
+  </summary>
+
+  <ul>
+    <li><strong>Course:</strong> Algebra–I and Calculus–I</li>
+    <li><strong>Class/Semester:</strong> I Semester</li>
+    <li><strong>Date:</strong> 06 Sep 2026</li>
+  </ul>
+
+  <p>
+    Dear students, the updated class notes are now available.
+    <a href="https://drbp-kcd.github.io/teaching/">
+      Click here to access the notes.
+    </a>
+  </p>
+
+  <p>
+    <strong>Action required:</strong> Please ensure that all the updated
+    notes are written in full in your notebooks before the next class.
+    I will check your notebooks during the next class. Students with
+    incomplete notes will not be permitted to attend the class.
+  </p>
+</details>
+
+<details>
+  <summary>
     <strong>Updated Class Notes — 06 Sep 2026</strong>
   </summary>
 
