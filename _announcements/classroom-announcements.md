@@ -23,12 +23,12 @@ excerpt: Updates about class schedules, lecture notes, assignments and assessmen
   <ul>
     <li><strong>Course:</strong> Algebra–I and Calculus–I</li>
     <li><strong>Class/Semester:</strong> I Semester</li>
-    <li><strong>Date:</strong> 06 Sep 2026</li>
+    <li><strong>Date:</strong> 06 Oct 2026</li>
   </ul>
 
   <p>
     Dear students, the updated class notes are now available.
-    <a href="https://drbp-kcd.github.io/teaching/">
+    <a href="https://drbp-kcd.github.io/teaching/algebra-i-calculus-i">
       Click here to access the notes.
     </a>
   </p>
@@ -49,12 +49,12 @@ excerpt: Updates about class schedules, lecture notes, assignments and assessmen
   <ul>
     <li><strong>Course:</strong> Algebra–I and Calculus–I</li>
     <li><strong>Class/Semester:</strong> I Semester</li>
-    <li><strong>Date:</strong> 06 Sep 2026</li>
+    <li><strong>Date:</strong> 28 Sep 2026</li>
   </ul>
 
   <p>
     Dear students, the updated class notes are now available.
-    <a href="https://drbp-kcd.github.io/teaching/">
+    <a href="https://drbp-kcd.github.io/teaching/algebra-i-calculus-i">
       Click here to access the notes.
     </a>
   </p>
@@ -80,7 +80,7 @@ excerpt: Updates about class schedules, lecture notes, assignments and assessmen
 
   <p>
     Dear students, the updated class notes are now available.
-    <a href="https://drbp-kcd.github.io/teaching/">
+    <a href="https://drbp-kcd.github.io/teaching/algebra-i-calculus-i">
       Click here to access the notes.
     </a>
   </p>
