@@ -93,7 +93,7 @@ semester. Select papers that match your prescribed syllabus.
 
 [Back to Resources]({{ '/resources/' | relative_url }})
 
-### Note:
+### All Subjects Question Papers:
 
 The following resource, provided by **GFGC, Dharwad**, contains previous-year question papers for all subjects under the **R-NEP, NEP, CBCS and old syllabi**. Sign in with your **Google account** to access the collection.
 
