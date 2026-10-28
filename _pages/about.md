@@ -28,7 +28,7 @@ and postgraduate levels.
 
 ### Research and Recognition
 
-My research contributions include **29 international publications**
+My research contributions include **30 international publications**
 and **16 invited talks** at faculty development programmes, seminars,
 workshops and conferences. Since 2026, I have been a recognized
 Ph.D. research guide at Karnatak University, Dharwad.
