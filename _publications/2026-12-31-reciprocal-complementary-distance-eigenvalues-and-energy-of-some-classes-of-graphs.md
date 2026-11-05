@@ -20,7 +20,7 @@ classes: publication-page
 
 **Accepted:** September 21, 2026
 
-**Scheduled publication:** December 31, 2026
+**Publication:** December 31, 2026
 
 **DOI:** [10.65908/gja.2026.8511.1045](https://doi.org/10.65908/gja.2026.8511.1045)
 
