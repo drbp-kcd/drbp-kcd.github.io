@@ -24,11 +24,7 @@ The PDF files are updated regularly as the course progresses.
 Classroom notes covering the topics discussed in class,
 including explanations, worked examples and exercises.
 
-[Download Unit I Notes (PDF) as on Oct 08, 2026]({{ '/files/teaching/algebra-ii-realanalysis-i/III-Class-upto-8Oct26.pdf' | relative_url }}){: .btn .btn--primary}
-
-[Download Unit I Notes (PDF) as on Sep 28, 2026]({{ '/files/teaching/algebra-ii-realanalysis-i/III-Class-upto-28Sep26.pdf' | relative_url }}){: .btn .btn--primary}
-
-[Download Unit I Notes (PDF) as on Sep 06, 2026]({{ '/files/teaching/algebra-ii-realanalysis-i/Class-upto-4Sep26-A-Division.pdf' | relative_url }}){: .btn .btn--primary}
+[Download Unit I Complete Notes (PDF) as on Nov 02, 2026]({{ '/files/teaching/algebra-ii-realanalysis-i/III-Class-upto-2Nov26.pdf' | relative_url }}){: .btn .btn--primary}
 
 [Back to Teaching]({{ '/teaching/' | relative_url }})
 
